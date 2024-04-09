@@ -1,0 +1,783 @@
+,ID,desc,prob,ssRNAP_prob
+23636,DAX04408.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.09 0.91],0.91
+53811,DAU00584.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.  0.1 0.9],0.9
+44316,DAS56917.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.11 0.89],0.89
+41587,DAS16856.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.11 0.89],0.89
+42476,DAS26681.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.12 0.88],0.88
+95816,DAE39459.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.01 0.11 0.88],0.88
+56906,DAU40213.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.13 0.87],0.87
+14823,DAW89507.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.16 0.84],0.84
+11550,DAW82240.1 ,MAG TPA: DNA POLYMERASE [Bacteriophage sp.],[0.01 0.21 0.78],0.78
+86533,DAQ55759.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.24 0.76],0.76
+116041,DAD59563.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.25 0.75],0.75
+61626,DAV13093.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.26 0.74],0.74
+33693,DAX66581.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.26 0.74],0.74
+46346,DAS88325.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.26 0.74],0.74
+26767,DAX09289.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.26 0.74],0.74
+56164,DAU28672.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.27 0.73],0.73
+77445,DAP07487.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.25 0.73],0.73
+30375,DAX14486.1 ,MAG TPA: SprT-like family protein [Bacteriophage sp.],[0.   0.27 0.73],0.73
+58422,DAU61777.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.27 0.72],0.72
+50820,DAT57085.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.28 0.72],0.72
+58387,DAU61742.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.27 0.72],0.72
+109980,DAE29628.1 ,MAG TPA: DNA directed RNA polymerase [virus sp. ctqq75],[0.   0.28 0.72],0.72
+51062,DAT60789.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.28 0.72],0.72
+42324,DAS25470.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.28 0.72],0.72
+64932,DAN56381.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.28 0.72],0.72
+43412,DAS41543.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.28 0.72],0.72
+43293,DAS41424.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.29 0.71],0.71
+58348,DAU61703.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.29 0.71],0.71
+53384,DAT96361.1 ,"MAG TPA: hypothetical protein, partial [Bacteriophage sp.]",[0.   0.29 0.71],0.71
+80219,DAP29932.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.29 0.71],0.71
+86182,DAQ48211.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.29 0.71],0.71
+26332,DAX08742.1 ,MAG TPA: Prex DNA polymerase [Bacteriophage sp.],[0.02 0.27 0.71],0.71
+58286,DAU61641.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.29 0.71],0.71
+33535,DAX62735.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.29 0.71],0.71
+64962,DAN56411.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+24469,DAX05618.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+37760,DAY36400.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+42438,DAS25584.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+37757,DAY36397.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.29 0.7 ],0.7
+55351,DAU18357.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+58389,DAU61744.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.29 0.7 ],0.7
+56165,DAU28673.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+39237,DAR69851.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+96882,DAE47668.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+117103,DAD62828.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+43289,DAS41420.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.3 0.7],0.7
+77473,DAP07515.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.31 0.69],0.69
+93598,DAR49152.1 ,MAG TPA: DNA directed RNA polymerase [Bacteriophage sp.],[0.   0.31 0.69],0.69
+117100,DAD62825.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.31 0.69],0.69
+77467,DAP07509.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.31 0.69],0.69
+80174,DAP29887.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.31 0.69],0.69
+96280,DAE42003.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.31 0.69],0.69
+7070,DAW22146.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.31 0.69],0.69
+58388,DAU61743.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.3  0.69],0.69
+904,DAV41724.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.31 0.69],0.69
+24485,DAX05634.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.31 0.69],0.69
+64960,DAN56409.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.31 0.68],0.68
+77458,DAP07500.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+15662,DAW91308.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+37886,DAY36526.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+80179,DAP29892.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+43423,DAS41554.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.31 0.68],0.68
+51058,DAT60785.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+68708,DAO05147.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+64958,DAN56407.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+64185,DAN44570.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+65071,DAN56520.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.31 0.68],0.68
+64194,DAN44579.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+42409,DAS25555.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.31 0.68],0.68
+9945,DAW65587.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.31 0.68],0.68
+114314,DAD55832.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+69528,DAO22216.1 ,MAG TPA: protein of unknown function (DUF932) [Bacteriophage sp.],[0.   0.32 0.68],0.68
+2839,DAV73585.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+77323,DAP07365.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.32 0.68],0.68
+26451,DAX08861.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+46423,DAS88402.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+39073,DAR65401.1 ,MAG TPA: Major tail protein [Bacteriophage sp.],[0.03 0.3  0.67],0.67
+98085,DAE53384.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+34534,DAX80985.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+50928,DAT58778.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+65405,DAN65135.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+112708,DAE32356.1 ,MAG TPA: hypothetical protein [virus sp. ctviY17],[0.   0.33 0.67],0.67
+46394,DAS88373.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.31 0.67],0.67
+43426,DAS41557.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+24489,DAX05638.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+64195,DAN44580.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+114196,DAD55714.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+96313,DAE42036.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+39952,DAR88395.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+69533,DAO22221.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+46549,DAS88528.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+57139,DAU41351.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+93453,DAR48649.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+67498,DAN90801.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+35719,DAX97956.1 ,MAG TPA: head to tail adaptor [Bacteriophage sp.],[0.   0.33 0.67],0.67
+2751,DAV73497.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+110802,DAE30450.1 ,MAG TPA: hypothetical protein [virus sp. ctiha2],[0.   0.33 0.67],0.67
+84949,DAQ30107.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+58287,DAU61642.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+37979,DAY36619.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+80255,DAP29968.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+55227,DAU18233.1 ,MAG TPA: ATP-dependent DNA helicase [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+116111,DAD59633.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+944,DAV41764.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+37899,DAY36539.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+34519,DAX80970.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+43411,DAS41542.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+56121,DAU28629.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.32 0.67],0.67
+15957,DAW91643.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+11589,DAW82279.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+51061,DAT60788.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+46332,DAS88311.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+32420,DAX35646.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.33 0.67],0.67
+34525,DAX80976.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.31 0.67],0.67
+64196,DAN44581.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+54347,DAU11670.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+40029,DAR88472.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+34513,DAX80964.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+878,DAV41698.1 ,"MAG TPA: hypothetical protein, partial [Bacteriophage sp.]",[0.   0.34 0.66],0.66
+40043,DAR88486.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+55568,DAU20233.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+64933,DAN56382.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+64184,DAN44569.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+41861,DAS20366.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+46328,DAS88307.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+46479,DAS88458.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+83438,DAQ11326.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+46475,DAS88454.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.33 0.66],0.66
+91044,DAR20083.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+46339,DAS88318.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+42976,DAS38218.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+42448,DAS25594.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+31838,DAX22518.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+114366,DAD55884.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+80254,DAP29967.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+94761,DAE33719.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+51067,DAT60794.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+80072,DAP29785.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+43424,DAS41555.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.33 0.66],0.66
+10949,DAW74679.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+108797,DAE28445.1 ,MAG TPA: hypothetical protein [virus sp. ct9pU4],[0.01 0.33 0.66],0.66
+80252,DAP29965.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+43405,DAS41536.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.32 0.66],0.66
+43422,DAS41553.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.32 0.66],0.66
+58354,DAU61709.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.33 0.66],0.66
+77316,DAP07358.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+43417,DAS41548.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+37901,DAY36541.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+58332,DAU61687.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+106621,DAD65537.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.33 0.66],0.66
+11613,DAW82303.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.32 0.66],0.66
+11644,DAW82334.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+37970,DAY36610.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.33 0.66],0.66
+109185,DAE28833.1 ,MAG TPA: hypothetical protein [virus sp. ctmTa7],[0.   0.34 0.66],0.66
+19818,DAW98204.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+50958,DAT58808.1 ,MAG TPA: Major tail protein [Bacteriophage sp.],[0.03 0.31 0.66],0.66
+43427,DAS41558.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+5928,DAW13159.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+26560,DAX08970.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.33 0.66],0.66
+37413,DAY34815.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.33 0.66],0.66
+6824,DAW21900.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+25383,DAX07184.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.32 0.66],0.66
+39862,DAR86909.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+7053,DAW22129.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.32 0.66],0.66
+47295,DAT08843.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+43292,DAS41423.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.33 0.66],0.66
+39248,DAR69862.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.34 0.66],0.66
+75186,DAO74393.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+77311,DAP07353.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+42435,DAS25581.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+37278,DAY30702.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.34 0.65],0.65
+34511,DAX80962.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+40033,DAR88476.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.34 0.65],0.65
+77339,DAP07381.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+74574,DAO69998.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+77356,DAP07398.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+34527,DAX80978.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+77475,DAP07517.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+37889,DAY36529.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+38240,DAY38481.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+61656,DAV13123.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+106592,DAD65508.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+114295,DAD55813.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+114384,DAD55902.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.34 0.65],0.65
+96391,DAE43279.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+96895,DAE47681.1 ,MAG TPA: Protein of unknown function (DUF3293) [Bacteriophage sp.],[0.   0.35 0.65],0.65
+11632,DAW82322.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+109037,DAE28685.1 ,MAG TPA: hypothetical protein [virus sp. ctmTa7],[0.   0.35 0.65],0.65
+98836,DAE65021.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+101924,DAE83944.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+2859,DAV73605.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+113981,DAE56700.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.33 0.65],0.65
+18178,DAW95238.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+113615,DAE33263.1 ,MAG TPA: hypothetical protein [virus sp. ctrcb4],[0.   0.35 0.65],0.65
+112906,DAE32554.1 ,MAG TPA: hypothetical protein [virus sp. ctEfN2],[0.01 0.34 0.65],0.65
+104443,DAF11919.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+53438,DAT96415.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+2874,DAV73620.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+3223,DAV74031.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.34 0.65],0.65
+11626,DAW82316.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.33 0.65],0.65
+54382,DAU11705.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+33718,DAX66606.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+108571,DAE28219.1 ,MAG TPA: hypothetical protein [virus sp. ctQcs9],[0.   0.35 0.65],0.65
+107905,DAE27373.1 ,MAG TPA: hypothetical protein [virus sp. ct8MV80],[0.   0.35 0.65],0.65
+33692,DAX66580.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+117087,DAD62812.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.33 0.65],0.65
+907,DAV41727.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+83382,DAQ11270.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+51072,DAT60799.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+46347,DAS88326.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+93379,DAR48575.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+56151,DAU28659.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+2729,DAV73475.1 ,MAG TPA: protein of unknown function (DUF932) [Bacteriophage sp.],[0.   0.35 0.65],0.65
+115894,DAD59416.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+63083,DAN25877.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.35 0.65],0.65
+8023,DAW40507.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+110328,DAE29976.1 ,MAG TPA: hypothetical protein [virus sp. ctE0n6],[0.01 0.35 0.64],0.64
+8694,DAW45180.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+111874,DAE31522.1 ,MAG TPA: hypothetical protein [virus sp. ctBM815],[0.01 0.35 0.64],0.64
+43282,DAS41413.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.35 0.64],0.64
+76218,DAO83197.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+75329,DAO76252.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+57177,DAU41389.1 ,MAG TPA: Stage V sporulation protein family [Bacteriophage sp.],[0.   0.36 0.64],0.64
+114296,DAD55814.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+40012,DAR88455.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+2777,DAV73523.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+117093,DAD62818.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.35 0.64],0.64
+117102,DAD62827.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.35 0.64],0.64
+110303,DAE29951.1 ,MAG TPA: hypothetical protein [virus sp. ctE0n6],[0.   0.36 0.64],0.64
+46204,DAS86325.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+11581,DAW82271.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+51057,DAT60784.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.34 0.64],0.64
+34517,DAX80968.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+33704,DAX66592.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.34 0.64],0.64
+86559,DAQ55785.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+46484,DAS88463.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.35 0.64],0.64
+94986,DAE35770.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+65503,DAN65233.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.35 0.64],0.64
+70124,DAO27729.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.35 0.64],0.64
+26420,DAX08830.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.35 0.64],0.64
+97817,DAE51956.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+50981,DAT58831.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+60520,DAU97747.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+20257,DAW98979.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+102418,DAE89579.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+11940,DAW84052.1 ,"MAG TPA: DNA polymerase III beta subunit, C-terminal domain [Bacteriophage sp.]",[0.01 0.35 0.64],0.64
+80264,DAP29977.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+51073,DAT60800.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+12930,DAW85932.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+476,DAV36605.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+17256,DAW93565.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+103483,DAF03438.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.36 0.64],0.64
+37881,DAY36521.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.35 0.64],0.64
+58376,DAU61731.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+63711,DAN37517.1 ,MAG TPA: head to tail adaptor [Bacteriophage sp.],[0.   0.37 0.63],0.63
+46544,DAS88523.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+69548,DAO22236.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+46324,DAS88303.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.36 0.63],0.63
+64199,DAN44584.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.35 0.63],0.63
+51080,DAT60807.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+46500,DAS88479.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.36 0.63],0.63
+55386,DAU18392.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+33687,DAX66575.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+10368,DAW66424.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+77479,DAP07521.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+97880,DAE52019.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+94550,DAR61295.1 ,MAG TPA: protein of unknown function DUF2303 [Bacteriophage sp.],[0.   0.37 0.63],0.63
+27908,DAX10869.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+83244,DAQ10731.1 ,MAG TPA: Lower collar protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+103453,DAF03408.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.36 0.63],0.63
+104992,DAF21759.1 ,"MAG TPA: Portal protein, Proximal tail tube, phi29, mature virion, VIRUS.3A [Bacteriophage sp.]",[0.   0.37 0.63],0.63
+106521,DAF41778.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+38253,DAY38494.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+36048,DAY08629.1 ,MAG TPA: protein of unknown function DUF2303 [Bacteriophage sp.],[0.   0.37 0.63],0.63
+87020,DAQ60509.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+89203,DAQ92408.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+74892,DAO72957.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+8421,DAW43656.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+40142,DAR91927.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+2775,DAV73521.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+34518,DAX80969.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.36 0.63],0.63
+1011,DAV41831.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+34461,DAX80912.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.37 0.63],0.63
+32329,DAX35106.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.36 0.63],0.63
+26468,DAX08878.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+89809,DAR02248.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+84385,DAQ23057.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+92498,DAR45642.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+93422,DAR48618.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+84084,DAQ20345.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+46326,DAS88305.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+62268,DAV23450.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+92457,DAR42060.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+26396,DAX08806.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+108629,DAE28277.1 ,MAG TPA: hypothetical protein [virus sp. ctRTq15],[0.   0.38 0.62],0.62
+889,DAV41709.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+55576,DAU20241.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.36 0.62],0.62
+916,DAV41736.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+1219,DAV45823.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+115640,DAD59162.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+5857,DAW13088.1 ,MAG TPA: Protein of unknown function (DUF1273) [Bacteriophage sp.],[0.02 0.36 0.62],0.62
+11590,DAW82280.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+23773,DAX04564.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+11638,DAW82328.1 ,"MAG TPA: Glucagon-like peptide 1 receptor, Exendin-4-bound G protein-coupled receptor extracellular [Bacteriophage sp.]",[0.   0.38 0.62],0.62
+107904,DAE27372.1 ,MAG TPA: hypothetical protein [virus sp. ct8MV80],[0.   0.38 0.62],0.62
+51068,DAT60795.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+15956,DAW91642.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+101583,DAE81994.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+20901,DAX00248.1 ,MAG TPA: Prex DNA polymerase [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+102473,DAE89634.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+80172,DAP29885.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.36 0.62],0.62
+37741,DAY36381.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.36 0.62],0.62
+77459,DAP07501.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+76582,DAO90109.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+75436,DAO76453.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+79160,DAP23632.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+77336,DAP07378.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+37904,DAY36544.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+43274,DAS41405.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.36 0.62],0.62
+44240,DAS56576.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+77402,DAP07444.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+77446,DAP07488.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+80181,DAP29894.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+37777,DAY36417.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+74115,DAO64198.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+44764,DAS66391.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+80185,DAP29898.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+64973,DAN56422.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+73251,DAO55844.1 ,MAG TPA: Lower collar protein [Bacteriophage sp.],[0.02 0.36 0.62],0.62
+80274,DAP30294.1 ,MAG TPA: Negative regulator of genetic competence (MecA) [Bacteriophage sp.],[0.   0.38 0.62],0.62
+64935,DAN56384.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+42436,DAS25582.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.37 0.62],0.62
+43308,DAS41439.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.38 0.62],0.62
+68827,DAO05362.1 ,MAG TPA: protein of unknown function (DUF4121) [Bacteriophage sp.],[0.   0.39 0.61],0.61
+51065,DAT60792.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.38 0.61],0.61
+99620,DAE70118.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+106058,DAF36548.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+43407,DAS41538.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+82771,DAQ02108.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+77315,DAP07357.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.37 0.61],0.61
+10187,DAW65958.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+57665,DAU46247.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+43425,DAS41556.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+5921,DAW13152.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.37 0.61],0.61
+56471,DAU32792.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+56183,DAU28691.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+114718,DAD57061.1 ,MAG TPA: Major tail protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+54345,DAU11668.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+74589,DAO70013.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.03 0.36 0.61],0.61
+73979,DAO62128.1 ,MAG TPA: Nucleotide modification associated domain 5 [Bacteriophage sp.],[0.   0.39 0.61],0.61
+114313,DAD55831.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+72284,DAO41642.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.38 0.61],0.61
+46316,DAS88295.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.38 0.61],0.61
+31836,DAX22516.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+79897,DAP29244.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+97869,DAE52008.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.38 0.61],0.61
+65671,DAN70167.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.37 0.61],0.61
+90008,DAR04837.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+95073,DAE36153.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+95291,DAE37105.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+64181,DAN44566.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+93529,DAR48725.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+43460,DAS41591.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+48516,DAT24289.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+59241,DAU82372.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+97353,DAE50311.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.39 0.61],0.61
+97470,DAE50606.1 ,"MAG TPA: hypothetical protein, partial [Bacteriophage sp.]",[0.01 0.38 0.61],0.61
+80258,DAP29971.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.38 0.6 ],0.6
+84073,DAQ20334.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+65337,DAN64195.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+89805,DAR02244.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.39 0.6 ],0.6
+69534,DAO22222.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.39 0.6 ],0.6
+116922,DAD61279.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+92295,DAR41898.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+72804,DAO46254.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+82671,DAQ00233.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+74578,DAO70002.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+57911,DAU48366.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+114195,DAD55713.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.39 0.6 ],0.6
+65610,DAN66319.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+74724,DAO70860.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+94624,DAR61448.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+79343,DAP25023.1 ,MAG TPA: UPF0489 domain protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+58321,DAU61676.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+61871,DAV18948.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.39 0.6 ],0.6
+67744,DAN93542.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+96900,DAE47686.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.38 0.6 ],0.6
+105545,DAF35156.1 ,MAG TPA: ribonuclease HI [Bacteriophage sp.],[0.  0.4 0.6],0.6
+59915,DAU91573.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+96952,DAE47948.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+100753,DAE76863.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+98484,DAE57386.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+117273,DAD64088.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+25682,DAX07503.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+649,DAV37795.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+905,DAV41725.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.39 0.6 ],0.6
+8639,DAW45125.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+39835,DAR86882.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.38 0.6 ],0.6
+9896,DAW65538.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+37944,DAY36584.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+27206,DAX09944.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+37887,DAY36527.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+26989,DAX09727.1 ,MAG TPA: dead box helicase [Bacteriophage sp.],[0.  0.4 0.6],0.6
+36980,DAY28983.1 ,MAG TPA: protein of unknown function DUF2303 [Bacteriophage sp.],[0.  0.4 0.6],0.6
+37900,DAY36540.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+26336,DAX08746.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+35088,DAX91922.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+34553,DAX81004.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.39 0.6 ],0.6
+33708,DAX66596.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.  0.4 0.6],0.6
+54368,DAU11691.1 ,MAG TPA: Cell density-dependent motility repressor [Bacteriophage sp.],[0.  0.4 0.6],0.6
+11666,DAW82356.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.39 0.59],0.59
+2785,DAV73531.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+62214,DAV23396.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+21419,DAX00804.1 ,MAG TPA: Major tail protein [Bacteriophage sp.],[0.02 0.39 0.59],0.59
+83368,DAQ11256.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+46530,DAS88509.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+46369,DAS88348.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+114209,DAD55727.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+67748,DAN93546.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+30593,DAX14704.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.39 0.59],0.59
+70355,DAO29747.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+41433,DAS12833.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+21261,DAX00608.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+36481,DAY15608.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+31797,DAX22477.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+39236,DAR69850.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+82638,DAQ00200.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+33716,DAX66604.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+31834,DAX22514.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+34691,DAX81712.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+101487,DAE81350.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+80145,DAP29858.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+27422,DAX10299.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+69305,DAO15903.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+117066,DAD62791.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+492,DAV36621.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+54053,DAU09690.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+22711,DAX02697.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+95074,DAE36154.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+56552,DAU32873.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+58418,DAU61773.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.41 0.59],0.59
+44184,DAS56408.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+65476,DAN65206.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+6149,DAW13768.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+65475,DAN65205.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+56174,DAU28682.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+44748,DAS66375.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+37166,DAY30590.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.03 0.39 0.58],0.58
+6131,DAW13750.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+92541,DAR45685.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+64940,DAN56389.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+43972,DAS54610.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+31716,DAX22396.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+58288,DAU61643.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+43812,DAS53170.1 ,MAG TPA: Lower collar protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+4755,DAV98774.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+96879,DAE47665.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.41 0.58],0.58
+9518,DAW52945.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.4  0.58],0.58
+63087,DAN25881.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+88600,DAQ74187.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+21948,DAX01388.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+37759,DAY36399.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.41 0.58],0.58
+46545,DAS88524.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+53418,DAT96395.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.4  0.58],0.58
+56499,DAU32820.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+50021,DAT49803.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.41 0.58],0.58
+10241,DAW66012.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+117118,DAD62843.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+100066,DAE74203.1 ,MAG TPA: Structural protein [Bacteriophage sp.],[0.   0.42 0.58],0.58
+77453,DAP07495.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+11646,DAW82336.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+6933,DAW22009.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.41 0.57],0.57
+67443,DAN90746.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.42 0.57],0.57
+74434,DAO68682.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+106493,DAF41750.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+13351,DAW86677.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+69713,DAO24455.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.41 0.57],0.57
+68828,DAO05363.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+109142,DAE28790.1 ,MAG TPA: hypothetical protein [virus sp. ctmTa7],[0.   0.43 0.57],0.57
+77345,DAP07387.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.42 0.57],0.57
+69311,DAO15909.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+52238,DAT83961.1 ,MAG TPA: nucelotide kinase [Bacteriophage sp.],[0.01 0.42 0.57],0.57
+30617,DAX14728.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.42 0.57],0.57
+43272,DAS41403.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.42 0.57],0.57
+116292,DAD59814.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+64971,DAN56420.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+48404,DAT22359.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+82659,DAQ00221.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+4795,DAV98814.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+46308,DAS88287.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.42 0.57],0.57
+54332,DAU11655.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+27128,DAX09866.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.42 0.57],0.57
+33698,DAX66586.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+46477,DAS88456.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+46032,DAS84897.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+46480,DAS88459.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+65001,DAN56450.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+86076,DAQ48105.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.41 0.57],0.57
+64121,DAN44506.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+65668,DAN70164.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.41 0.57],0.57
+67022,DAN90004.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.43 0.57],0.57
+31867,DAX25033.1 ,MAG TPA: DNA polymerase B [Bacteriophage sp.],[0.02 0.41 0.57],0.57
+38325,DAY38566.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+54359,DAU11682.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+27147,DAX09885.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+37898,DAY36538.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.43 0.56],0.56
+40414,DAR96343.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.43 0.56],0.56
+80093,DAP29806.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.43 0.56],0.56
+40413,DAR96342.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+34524,DAX80975.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+77358,DAP07400.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.03 0.41 0.56],0.56
+52131,DAT80491.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+83435,DAQ11323.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+93433,DAR48629.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+77317,DAP07359.1 ,MAG TPA: B-ZIP transcription factor [Bacteriophage sp.],[0.   0.44 0.56],0.56
+32330,DAX35107.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+84579,DAQ23809.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+894,DAV41714.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+46312,DAS88291.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+115066,DAD57603.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+114394,DAD55912.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.43 0.56],0.56
+39171,DAR69785.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+31865,DAX25031.1 ,MAG TPA: Major tail protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+73259,DAO55852.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.43 0.56],0.56
+99981,DAE73837.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+1047,DAV41867.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.43 0.56],0.56
+67301,DAN90604.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+114207,DAD55725.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+80475,DAP35808.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+26513,DAX08923.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+105646,DAF35257.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+92506,DAR45650.1 ,MAG TPA: tail protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+81892,DAP77262.1 ,MAG TPA: Lower collar protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+113616,DAE33264.1 ,MAG TPA: hypothetical protein [virus sp. ctrcb4],[0.   0.44 0.56],0.56
+16178,DAW91959.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+84817,DAQ26121.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+7121,DAW22197.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+80260,DAP29973.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+69596,DAO22284.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+92193,DAR41796.1 ,MAG TPA: stabilization protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+94780,DAE33738.1 ,MAG TPA: RNA dependent RNA polymerase [Bacteriophage sp.],[0.   0.44 0.56],0.56
+51066,DAT60793.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+31847,DAX22527.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+51071,DAT60798.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.43 0.56],0.56
+104260,DAF11736.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.43 0.56],0.56
+46165,DAS86286.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+11133,DAW75198.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+53455,DAT96432.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.44 0.56],0.56
+13732,DAW87453.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.42 0.56],0.56
+53508,DAT96485.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+80186,DAP29899.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.44 0.55],0.55
+33015,DAX47885.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+12006,DAW84118.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+105576,DAF35187.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.43 0.55],0.55
+54050,DAU09687.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+34516,DAX80967.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+33992,DAX71272.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+31858,DAX22538.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+82634,DAQ00196.1 ,"MAG TPA: hypothetical protein, partial [Bacteriophage sp.]",[0.01 0.44 0.55],0.55
+667,DAV37813.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+41217,DAS09634.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.43 0.55],0.55
+100541,DAE74731.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+46317,DAS88296.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+100261,DAE74398.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+51043,DAT60770.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+67376,DAN90679.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+67350,DAN90653.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+44704,DAS66331.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+44808,DAS66435.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+4814,DAV98833.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+64191,DAN44576.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.44 0.55],0.55
+30878,DAX15161.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+97895,DAE52034.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+97876,DAE52015.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+46522,DAS88501.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+62574,DAV23959.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.43 0.55],0.55
+116808,DAD61165.1 ,MAG TPA: putative hydrolase [Bacteriophage sp.],[0.   0.45 0.55],0.55
+46533,DAS88512.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+21494,DAX00904.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+43303,DAS41434.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+6921,DAW21997.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+7455,DAW33068.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+40011,DAR88454.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+77918,DAP08677.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+37770,DAY36410.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+37831,DAY36471.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+37895,DAY36535.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.43 0.55],0.55
+95303,DAE37117.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+24490,DAX05639.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+31831,DAX22511.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+110315,DAE29963.1 ,MAG TPA: hypothetical protein [virus sp. ctE0n6],[0.   0.45 0.55],0.55
+70472,DAO29864.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+111048,DAE30696.1 ,MAG TPA: hypothetical protein [virus sp. ctML55],[0.   0.45 0.55],0.55
+90311,DAR10826.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+74161,DAO64509.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+91237,DAR26629.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+112001,DAE31649.1 ,MAG TPA: hypothetical protein [virus sp. ctBM815],[0.   0.45 0.55],0.55
+42421,DAS25567.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.45 0.55],0.55
+32324,DAX35101.1 ,MAG TPA: LIGANc+ dependent DNA ligase adenylation domain [Bacteriophage sp.],[0.   0.45 0.55],0.55
+30540,DAX14651.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+21280,DAX00627.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.03 0.43 0.54],0.54
+93249,DAR48445.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.44 0.54],0.54
+104445,DAF11921.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.44 0.54],0.54
+92742,DAR45886.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+19727,DAW98113.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+39984,DAR88427.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+42426,DAS25572.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+2741,DAV73487.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+53291,DAT96225.1 ,MAG TPA: nucelotide kinase [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+42353,DAS25499.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+117085,DAD62810.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+51077,DAT60804.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.44 0.54],0.54
+9102,DAW51761.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+33232,DAX54265.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+117021,DAD62746.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+68836,DAO05371.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+59560,DAU90219.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+68823,DAO05358.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+67719,DAN93517.1 ,MAG TPA: structural protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+114270,DAD55788.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+65038,DAN56487.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+46456,DAS88435.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+64193,DAN44578.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.44 0.54],0.54
+46482,DAS88461.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+46503,DAS88482.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+74433,DAO68681.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+111413,DAE31061.1 ,MAG TPA: hypothetical protein [virus sp. ctML55],[0.03 0.43 0.54],0.54
+111277,DAE30925.1 ,MAG TPA: hypothetical protein [virus sp. ctML55],[0.   0.46 0.54],0.54
+34500,DAX80951.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+82637,DAQ00199.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+81891,DAP77261.1 ,MAG TPA: DNA polymerase B [Bacteriophage sp.],[0.03 0.43 0.54],0.54
+55484,DAU20149.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+80710,DAP40032.1 ,"MAG TPA: hypothetical protein, partial [Bacteriophage sp.]",[0.   0.46 0.54],0.54
+105797,DAF36287.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+80257,DAP29970.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.44 0.54],0.54
+34107,DAX75351.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+39244,DAR69858.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+54264,DAU11587.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+57307,DAU41519.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+58280,DAU61635.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+37415,DAY34817.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+11585,DAW82275.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+11583,DAW82273.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+109104,DAE28752.1 ,MAG TPA: hypothetical protein [virus sp. ctmTa7],[0.   0.46 0.54],0.54
+39231,DAR69845.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.46 0.54],0.54
+61447,DAV06149.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.45 0.54],0.54
+116688,DAD60280.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.04 0.43 0.53],0.53
+487,DAV36616.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.45 0.53],0.53
+116313,DAD59835.1 ,"MAG TPA: DNA polymerase III, alpha subunit [Bacteriophage sp.]",[0.01 0.46 0.53],0.53
+105554,DAF35165.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+115826,DAD59348.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.46 0.53],0.53
+2796,DAV73542.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+7004,DAW22080.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+113577,DAE33225.1 ,MAG TPA: hypothetical protein [virus sp. ctrcb4],[0.   0.47 0.53],0.53
+113528,DAE33176.1 ,MAG TPA: hypothetical protein [virus sp. ctrcb4],[0.01 0.46 0.53],0.53
+98829,DAE65014.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+20511,DAW99443.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+111599,DAE31247.1 ,MAG TPA: hypothetical protein [virus sp. ctHG14],[0.   0.47 0.53],0.53
+11620,DAW82310.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+101740,DAE83458.1 ,MAG TPA: Major tail protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+102513,DAE89674.1 ,MAG TPA: RNA polymerase subunit [Bacteriophage sp.],[0.   0.47 0.53],0.53
+16801,DAW92826.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+55543,DAU20208.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+464,DAV36593.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.45 0.53],0.53
+38212,DAY38453.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+37492,DAY34894.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+75321,DAO76244.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+39834,DAR86881.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.45 0.53],0.53
+47292,DAT08840.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.46 0.53],0.53
+60744,DAU99015.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+86639,DAQ57253.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+32041,DAX28916.1 ,MAG TPA: Major tail protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+84262,DAQ22582.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+78831,DAP20778.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+89378,DAQ96007.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+79838,DAP29185.1 ,MAG TPA: zinc finger domain protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+80270,DAP29983.1 ,MAG TPA: putative membrane protein [Bacteriophage sp.],[0.02 0.45 0.53],0.53
+66998,DAN89980.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+80097,DAP29810.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+33734,DAX66622.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.45 0.53],0.53
+59870,DAU91528.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.45 0.53],0.53
+80194,DAP29907.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+49944,DAT49483.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+62219,DAV23401.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+30427,DAX14538.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+42980,DAS38222.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+44916,DAS66543.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+31579,DAX22259.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+70129,DAO27734.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+29317,DAX13123.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+91989,DAR34523.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+46266,DAS88245.1 ,MAG TPA: putative phosphoesterase [Bacteriophage sp.],[0.   0.47 0.53],0.53
+67915,DAN94486.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+64125,DAN44510.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+95225,DAE37039.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.47 0.53],0.53
+54549,DAU13620.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.45 0.53],0.53
+43481,DAS41612.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+106624,DAD65540.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+43918,DAS54556.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.47 0.52],0.52
+43360,DAS41491.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+68846,DAO05718.1 ,MAG TPA: NinB protein [Bacteriophage sp.],[0.01 0.47 0.52],0.52
+40690,DAR98945.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.47 0.52],0.52
+10266,DAW66037.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.47 0.52],0.52
+77470,DAP07512.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+26990,DAX09728.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+38249,DAY38490.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+39784,DAR81674.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.04 0.44 0.52],0.52
+110319,DAE29967.1 ,MAG TPA: hypothetical protein [virus sp. ctE0n6],[0.   0.48 0.52],0.52
+906,DAV41726.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+74430,DAO68678.1 ,MAG TPA: DNA-directed RNA polymerase subunit alpha [Bacteriophage sp.],[0.   0.48 0.52],0.52
+75001,DAO74208.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+36455,DAY15582.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+105685,DAF35296.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+116918,DAD61275.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+31839,DAX22519.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+94813,DAE33771.1 ,MAG TPA: protein of unknown function (DUF4121) [Bacteriophage sp.],[0.   0.48 0.52],0.52
+21512,DAX00922.1 ,MAG TPA: Hepatocyte growth factor-regulated tyrosine kinase substrate [Bacteriophage sp.],[0.   0.48 0.52],0.52
+56104,DAU28612.1 ,MAG TPA: Putative modification methylase [Bacteriophage sp.],[0.01 0.47 0.52],0.52
+29731,DAX13685.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+53708,DAT99151.1 ,MAG TPA: zinc-ribbon domain protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+97886,DAE52025.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+91990,DAR34524.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.47 0.52],0.52
+57179,DAU41391.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+57309,DAU41521.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+91754,DAR32458.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+20446,DAW99378.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+88005,DAQ68228.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+87928,DAQ68151.1 ,MAG TPA: protein of unknown function (DUF4121) [Bacteriophage sp.],[0.   0.48 0.52],0.52
+67468,DAN90771.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+105217,DAF29724.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+116839,DAD61196.1 ,MAG TPA: Protein of unknown function (DUF2958) [Bacteriophage sp.],[0.   0.48 0.52],0.52
+86771,DAQ57465.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+105673,DAF35284.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+17306,DAW93625.1 ,MAG TPA: Lower collar protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+33689,DAX66577.1 ,MAG TPA: HTH-type transcriptional regulator [Bacteriophage sp.],[0.   0.48 0.52],0.52
+85358,DAQ39873.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+49610,DAT41319.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+83461,DAQ11349.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.48 0.52],0.52
+47433,DAT08981.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+60358,DAU97031.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+116893,DAD61250.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+6154,DAW13773.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+53514,DAT96491.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+116636,DAD60228.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+46311,DAS88290.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.04 0.45 0.51],0.51
+58744,DAU69293.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+52025,DAT80385.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+60028,DAU92249.1 ,MAG TPA: DNA-packaging protein small subunit [Bacteriophage sp.],[0.   0.49 0.51],0.51
+24870,DAX06187.1 ,MAG TPA: Replication associated protein [Bacteriophage sp.],[0.02 0.47 0.51],0.51
+105689,DAF35300.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+12583,DAW85201.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+88025,DAQ68248.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+19904,DAW98290.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+19725,DAW98111.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+19678,DAW98064.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+18175,DAW95235.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+83400,DAQ11288.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+98963,DAE65148.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+34506,DAX80957.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.06 0.43 0.51],0.51
+106498,DAF41755.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+88027,DAQ68250.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+29849,DAX13803.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+39179,DAR69793.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+9810,DAW58275.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+9225,DAW52426.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+42378,DAS25524.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.48 0.51],0.51
+27814,DAX10775.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.48 0.51],0.51
+23783,DAX04574.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.48 0.51],0.51
+71573,DAO37491.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+69577,DAO22265.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.   0.49 0.51],0.51
+51052,DAT60779.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.48 0.5 ],0.5
+21415,DAX00800.1 ,MAG TPA: DNA polymerase B [Bacteriophage sp.],[0.02 0.48 0.5 ],0.5
+21039,DAX00386.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.49 0.5 ],0.5
+81249,DAP45894.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.48 0.5 ],0.5
+58411,DAU61766.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.48 0.5 ],0.5
+44021,DAS54659.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.02 0.48 0.5 ],0.5
+79990,DAP29703.1 ,MAG TPA: 5'-3' exonuclease [Bacteriophage sp.],[0.01 0.49 0.5 ],0.5
+46473,DAS88452.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.06 0.44 0.5 ],0.5
+72328,DAO42162.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.01 0.49 0.5 ],0.5
+60560,DAU98108.1 ,"MAG TPA: hypothetical protein, partial [Bacteriophage sp.]",[0.04 0.47 0.49],0.49
+37755,DAY36395.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.12 0.4  0.48],0.48
+42440,DAS25586.1 ,MAG TPA: hypothetical protein [Bacteriophage sp.],[0.12 0.41 0.47],0.47
