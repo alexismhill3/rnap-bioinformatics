@@ -1,3 +1,5 @@
 .ipynb_checkpoints/
 output/
-data/query_sequences
+phagescope/
+largefiles/
+embs/
