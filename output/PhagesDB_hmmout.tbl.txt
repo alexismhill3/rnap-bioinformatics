@@ -1,0 +1,13 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hmm/phage-family-interpro-v4.hmm
+# Target file:     phagescope/PhagesDB.fasta
+# Option settings: hmmsearch -o output/PhagesDB_hmmout.txt --tblout output/PhagesDB_hmmout.tbl.txt --noali -E 0.001 --cpu 50 hmm/phage-family-interpro-v4.hmm phagescope/PhagesDB.fasta 
+# Current dir:     /stor/scratch/Wilke/amh7958/rnap-bioinformatics
+# Date:            Tue May 21 13:56:03 2024
+# [ok]

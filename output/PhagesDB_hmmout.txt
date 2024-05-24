@@ -1,0 +1,42 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  hmm/phage-family-interpro-v4.hmm
+# target sequence database:        phagescope/PhagesDB.fasta
+# output directed to file:         output/PhagesDB_hmmout.txt
+# per-seq hits tabular output:     output/PhagesDB_hmmout.tbl.txt
+# show alignments in output:       no
+# sequence reporting threshold:    E-value <= 0.001
+# number of worker threads:        50
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       phage-family-interpro-v4  [M=997]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence:
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (997 nodes)
+Target sequences:                     351898  (69568579 residues searched)
+Passed MSV filter:                      6961  (0.0197813); expected 7038.0 (0.02)
+Passed bias filter:                     5148  (0.0146292); expected 7038.0 (0.02)
+Passed Vit filter:                       485  (0.00137824); expected 351.9 (0.001)
+Passed Fwd filter:                         0  (0); expected 3.5 (1e-05)
+Initial search space (Z):             351898  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 6.99u 0.68s 00:00:07.67 Elapsed: 00:00:00.81
+# Mc/sec: 85393.83
+//
+[ok]

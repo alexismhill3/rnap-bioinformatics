@@ -1,0 +1,30 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+BAJ51806.1           -          phage-family-interpro-v4 -           4.5e-232  773.0   0.0  5.3e-232  772.8   0.0   1.0   1   0   0   1   1   1   1 -
+BAQ94189.1           -          phage-family-interpro-v4 -           5.2e-206  686.7   6.1  5.8e-206  686.6   6.1   1.0   1   0   0   1   1   1   1 -
+BAG70384.1           -          phage-family-interpro-v4 -           4.2e-204  680.4   0.0  4.7e-204  680.3   0.0   1.0   1   0   0   1   1   1   1 -
+BAP15729.1           -          phage-family-interpro-v4 -           1.5e-201  671.9   0.0  1.9e-201  671.6   0.0   1.0   1   0   0   1   1   1   1 -
+BAQ94080.1           -          phage-family-interpro-v4 -             1e-198  662.6   6.3  1.3e-198  662.3   6.3   1.0   1   0   0   1   1   1   1 -
+BAM29105.1           -          phage-family-interpro-v4 -           2.5e-198  661.3   0.0    3e-198  661.1   0.0   1.0   1   0   0   1   1   1   1 -
+BAP15831.1           -          phage-family-interpro-v4 -           4.2e-198  660.6   0.0  4.7e-198  660.4   0.0   1.0   1   0   0   1   1   1   1 -
+BAQ94309.1           -          phage-family-interpro-v4 -             3e-195  651.1   0.5  3.7e-195  650.8   0.5   1.0   1   0   0   1   1   1   1 -
+BAQ94272.1           -          phage-family-interpro-v4 -           6.7e-182  606.9   0.0  7.6e-182  606.8   0.0   1.0   1   0   0   1   1   1   1 -
+BAE72738.1           -          phage-family-interpro-v4 -             1e-166  556.6   0.0  1.6e-166  556.0   0.0   1.2   1   0   0   1   1   1   1 -
+BAN92342.1           -          phage-family-interpro-v4 -           3.7e-165  551.5   0.0  4.2e-165  551.3   0.0   1.0   1   0   0   1   1   1   1 -
+BAQ94245.1           -          phage-family-interpro-v4 -           1.7e-164  549.3   0.5  2.2e-164  548.9   0.5   1.0   1   0   0   1   1   1   1 -
+BAQ94003.1           -          phage-family-interpro-v4 -           1.6e-160  536.2   0.1  1.9e-160  535.9   0.1   1.0   1   0   0   1   1   1   1 -
+BAQ94423.1           -          phage-family-interpro-v4 -           1.8e-105  353.9   0.0  2.1e-105  353.7   0.0   1.0   1   0   0   1   1   1   1 -
+BAQ94481.1           -          phage-family-interpro-v4 -            4.5e-94  316.2   0.0   5.2e-94  316.0   0.0   1.0   1   0   0   1   1   1   1 -
+BAQ94429.1           -          phage-family-interpro-v4 -            2.3e-88  297.3   0.0   5.4e-78  263.0   0.0   2.0   2   0   0   2   2   2   2 -
+BAQ94246.1           -          phage-family-interpro-v4 -            2.1e-21   75.6   2.1   2.6e-21   75.3   2.1   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hmm/phage-family-interpro-v4.hmm
+# Target file:     phagescope/DDBJ.fasta
+# Option settings: hmmsearch -o output/DDBJ_hmmout.txt --tblout output/DDBJ_hmmout.tbl.txt --noali -E 0.001 --cpu 50 hmm/phage-family-interpro-v4.hmm phagescope/DDBJ.fasta 
+# Current dir:     /stor/scratch/Wilke/amh7958/rnap-bioinformatics
+# Date:            Tue May 21 13:56:01 2024
+# [ok]

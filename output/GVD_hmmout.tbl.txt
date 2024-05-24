@@ -1,0 +1,99 @@
+#                                                                                                                  --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                       accession  query name               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                               ------------------- ----------     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Ma_2019_SRR341678_NODE_317_length_41243_cov_67.126032_42            -          phage-family-interpro-v4 -                  0 1013.4   0.1         0 1013.3   0.1   1.0   1   0   0   1   1   1   1 -
+SRR7892431_NODE_5_length_39514_cov_32.711067_25                     -          phage-family-interpro-v4 -           1.7e-300 1004.9   0.0  1.9e-300 1004.7   0.0   1.0   1   0   0   1   1   1   1 -
+SRR7892456_NODE_33_length_7619_cov_29.800502_6                      -          phage-family-interpro-v4 -           9.6e-287  959.4   0.1  1.1e-286  959.2   0.1   1.0   1   0   0   1   1   1   1 -
+Broecker_Sample_ID29-1191-3_NODE_102_length_38363_cov_11.011251_44  -          phage-family-interpro-v4 -           1.3e-273  916.0   0.0  1.4e-273  915.8   0.0   1.0   1   0   0   1   1   1   1 -
+Reyes_2015_F112_T1_NODE_5_length_48935_cov_36.137293_53             -          phage-family-interpro-v4 -           4.2e-256  858.0   0.0  5.2e-256  857.6   0.0   1.0   1   0   0   1   1   1   1 -
+Han_2018_ERR1398246_NODE_859_length_15055_cov_4.942867_17           -          phage-family-interpro-v4 -           4.3e-255  854.6   0.0  5.3e-255  854.3   0.0   1.0   1   0   0   1   1   1   1 -
+Rampelli_10017_NODE_250_length_40110_cov_15.836350_33               -          phage-family-interpro-v4 -           5.9e-255  854.1   0.0  7.3e-255  853.8   0.0   1.0   1   0   0   1   1   1   1 -
+Rampelli_10023_NODE_30_length_45460_cov_4.603634_41                 -          phage-family-interpro-v4 -           5.3e-250  837.8   0.1  5.9e-250  837.6   0.1   1.0   1   0   0   1   1   1   1 -
+Zuo_2019_SRR8240683_NODE_207_length_19048_cov_34.129837_12          -          phage-family-interpro-v4 -           1.6e-248  832.9   0.0  1.9e-248  832.6   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR1778452_NODE_601_length_35324_cov_15.675522_30           -          phage-family-interpro-v4 -           1.9e-239  802.8   0.4  2.2e-239  802.6   0.4   1.0   1   0   0   1   1   1   1 -
+Zuo_2019_SRR8240688_NODE_36_length_34231_cov_163.778207_2           -          phage-family-interpro-v4 -           3.6e-238  798.6   0.0    4e-238  798.4   0.0   1.0   1   0   0   1   1   1   1 -
+Han_2018_ERR1398227_NODE_92_length_44625_cov_34.029616_34           -          phage-family-interpro-v4 -           7.3e-238  797.6   0.1  8.2e-238  797.4   0.1   1.0   1   0   0   1   1   1   1 -
+Nadia_combined_trimmed_NODE_14_length_58060_cov_127.928937_24       -          phage-family-interpro-v4 -           7.9e-235  787.5   0.0  9.6e-235  787.3   0.0   1.0   1   0   0   1   1   1   1 -
+Monaco_MBA4010_NODE_317_length_16723_cov_7.781497_3                 -          phage-family-interpro-v4 -           9.9e-234  783.9   2.5  1.1e-233  783.7   2.5   1.0   1   0   0   1   1   1   1 -
+Nadia_combined_trimmed_NODE_14_length_58060_cov_127.928937_74       -          phage-family-interpro-v4 -           1.5e-233  783.3   0.0  1.6e-233  783.2   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413717_NODE_194_length_45232_cov_3.487947_1              -          phage-family-interpro-v4 -           3.1e-226  759.1   0.0  3.6e-226  758.9   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR341714_NODE_224_length_46619_cov_20.739262_8             -          phage-family-interpro-v4 -           1.3e-225  757.0   0.0  1.5e-225  756.8   0.0   1.0   1   0   0   1   1   1   1 -
+SRR7892452_NODE_14_length_39115_cov_96.860573_33                    -          phage-family-interpro-v4 -           4.8e-225  755.2   0.3  5.6e-225  754.9   0.3   1.0   1   0   0   1   1   1   1 -
+SRR7892427_NODE_15_length_42299_cov_371.946241_19                   -          phage-family-interpro-v4 -             3e-224  752.5   0.3  3.7e-224  752.2   0.3   1.0   1   0   0   1   1   1   1 -
+SRR7892429_NODE_8_length_43482_cov_163.852672_48                    -          phage-family-interpro-v4 -           6.1e-224  751.5   0.4  7.2e-224  751.3   0.4   1.0   1   0   0   1   1   1   1 -
+SRR7892483_NODE_3_length_44168_cov_108.414186_5                     -          phage-family-interpro-v4 -           7.8e-224  751.1   0.5  9.5e-224  750.9   0.5   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413656_NODE_262_length_43365_cov_74.873378_36            -          phage-family-interpro-v4 -           9.3e-224  750.9   0.1  1.1e-223  750.6   0.1   1.0   1   0   0   1   1   1   1 -
+Han_2018_ERR1398154_NODE_1894_length_8882_cov_2.939844_6            -          phage-family-interpro-v4 -           2.8e-217  729.5   0.0  3.1e-217  729.3   0.0   1.0   1   0   0   1   1   1   1 -
+Monaco_MBA4038_NODE_26_length_36722_cov_11.080890_20                -          phage-family-interpro-v4 -           2.4e-215  723.0   0.0  2.7e-215  722.9   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413727_NODE_925_length_30506_cov_2.609734_5              -          phage-family-interpro-v4 -           1.2e-214  720.8   0.0  1.4e-214  720.5   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR341661_NODE_362_length_45429_cov_48.701701_28            -          phage-family-interpro-v4 -           5.3e-212  712.0   0.0  6.4e-212  711.7   0.0   1.0   1   0   0   1   1   1   1 -
+Zuo_2019_SRR8240690_NODE_577_length_7372_cov_6.590679_5             -          phage-family-interpro-v4 -           6.7e-212  711.6   0.0  7.9e-212  711.4   0.0   1.0   1   0   0   1   1   1   1 -
+Monaco_MBA1751_NODE_51_length_20846_cov_12.657737_25                -          phage-family-interpro-v4 -           6.5e-211  708.4   0.0  7.2e-211  708.2   0.0   1.0   1   0   0   1   1   1   1 -
+Kang_0027_ST001_A_NODE_79_length_20645_cov_191.333123_10            -          phage-family-interpro-v4 -             1e-206  694.5   9.0  1.1e-206  694.3   9.0   1.0   1   0   0   1   1   1   1 -
+Shkoporov_2019_SRR9161591_NODE_35_length_34889_cov_251.200810_11    -          phage-family-interpro-v4 -           4.7e-205  689.0   0.0  5.7e-205  688.7   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413685_NODE_47_length_111668_cov_12.620286_17            -          phage-family-interpro-v4 -           1.6e-204  687.2   1.4  1.7e-204  687.1   1.4   1.0   1   0   0   1   1   1   1 -
+Han_2018_ERR1398150_NODE_58_length_43653_cov_10.293798_11           -          phage-family-interpro-v4 -           2.5e-204  686.6   0.0    3e-204  686.3   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR341598_NODE_1463_length_8865_cov_1.864926_13             -          phage-family-interpro-v4 -           7.8e-204  684.9   0.2  9.2e-204  684.7   0.2   1.0   1   0   0   1   1   1   1 -
+SRR7892427_NODE_13_length_43090_cov_264.621787_32                   -          phage-family-interpro-v4 -           6.3e-203  681.9   0.0  7.8e-203  681.6   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413664_NODE_176_length_60027_cov_3.989445_16             -          phage-family-interpro-v4 -           1.8e-202  680.4   0.6  2.2e-202  680.1   0.6   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413644_NODE_389_length_44739_cov_4.403925_42             -          phage-family-interpro-v4 -           2.4e-199  670.1   0.0  2.9e-199  669.8   0.0   1.0   1   0   0   1   1   1   1 -
+Shkoporov_2019_SRR9161580_NODE_13_length_41540_cov_70.743570_6      -          phage-family-interpro-v4 -           2.7e-198  666.6   1.0  3.3e-198  666.3   1.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413647_NODE_392_length_38739_cov_10.265950_9             -          phage-family-interpro-v4 -           5.7e-198  665.5   0.6  6.3e-198  665.4   0.6   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413761_NODE_790_length_44409_cov_2.479032_9              -          phage-family-interpro-v4 -           8.4e-198  665.0   0.2  9.8e-198  664.7   0.2   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR341680_NODE_179_length_43486_cov_14.141305_41            -          phage-family-interpro-v4 -           1.8e-193  650.6   2.9  2.1e-193  650.4   2.9   1.0   1   0   0   1   1   1   1 -
+SRR7892431_NODE_95_length_7898_cov_22.015300_4                      -          phage-family-interpro-v4 -           1.5e-192  647.6   0.9  1.8e-192  647.3   0.9   1.0   1   0   0   1   1   1   1 -
+SRR7892464_NODE_6_length_42680_cov_76.028880_36                     -          phage-family-interpro-v4 -           6.7e-192  645.4   0.6  8.5e-192  645.1   0.6   1.1   1   0   0   1   1   1   1 -
+Shkoporov_2019_SRR9161588_NODE_40_length_42055_cov_21.772310_40     -          phage-family-interpro-v4 -           7.7e-192  645.2   0.1  8.6e-192  645.1   0.1   1.0   1   0   0   1   1   1   1 -
+SRR7892433_NODE_9_length_42343_cov_52.509979_2                      -          phage-family-interpro-v4 -           4.4e-190  639.4   0.6  5.5e-190  639.1   0.6   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413705_NODE_381_length_40031_cov_2.251976_29             -          phage-family-interpro-v4 -           6.2e-190  638.9   0.1  7.5e-190  638.6   0.1   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413741_NODE_323_length_41452_cov_4.544919_39             -          phage-family-interpro-v4 -           4.1e-188  632.9   0.0  4.6e-188  632.7   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413656_NODE_205_length_53976_cov_2.821813_9              -          phage-family-interpro-v4 -             1e-184  621.6   0.7  1.1e-184  621.5   0.7   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR341655_NODE_258_length_42603_cov_3.116010_41             -          phage-family-interpro-v4 -           3.3e-184  620.0   0.0  3.7e-184  619.8   0.0   1.0   1   0   0   1   1   1   1 -
+Shkoporov_2019_SRR9161509_NODE_2886_length_5865_cov_5.169191_7      -          phage-family-interpro-v4 -           7.3e-179  602.3   0.0  8.7e-179  602.0   0.0   1.0   1   0   0   1   1   1   1 -
+Rampelli_10018_NODE_803_length_11940_cov_3.184182_1                 -          phage-family-interpro-v4 -             6e-176  592.6   0.0  7.4e-176  592.3   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR341681_NODE_306_length_44253_cov_3.983054_44             -          phage-family-interpro-v4 -           4.1e-174  586.6   4.2  4.9e-174  586.3   4.2   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR341661_NODE_897_length_21336_cov_6.375170_9              -          phage-family-interpro-v4 -             5e-170  573.0   0.0    6e-170  572.8   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413636_NODE_160_length_48833_cov_4.499549_43             -          phage-family-interpro-v4 -           3.3e-168  567.0   0.0    4e-168  566.7   0.0   1.0   1   0   0   1   1   1   1 -
+SRR7892433_NODE_6_length_45474_cov_86.067747_22                     -          phage-family-interpro-v4 -             3e-164  553.9   0.0  3.4e-164  553.7   0.0   1.0   1   0   0   1   1   1   1 -
+SRR7892461_NODE_4_length_47009_cov_68.309686_32                     -          phage-family-interpro-v4 -           1.4e-157  531.8   0.0  1.7e-157  531.5   0.0   1.0   1   0   0   1   1   1   1 -
+SRR7892470_NODE_3_length_47496_cov_1187.939124_31                   -          phage-family-interpro-v4 -           3.1e-156  527.4   0.0  3.8e-156  527.1   0.0   1.0   1   0   0   1   1   1   1 -
+SRR7892439_NODE_2_length_42693_cov_524.347859_11                    -          phage-family-interpro-v4 -             2e-145  491.6   0.0  2.2e-145  491.4   0.0   1.0   1   0   0   1   1   1   1 -
+Reyes_2015_F194_T1_NODE_22_length_12928_cov_100.341614_1            -          phage-family-interpro-v4 -           5.2e-144  486.9   0.0  6.2e-144  486.6   0.0   1.0   1   0   0   1   1   1   1 -
+Reyes_2015_F268_T2_NODE_12_length_32917_cov_5.024611_4              -          phage-family-interpro-v4 -           2.6e-138  468.0   0.0  2.9e-138  467.9   0.0   1.0   1   0   0   1   1   1   1 -
+SRR7892481_NODE_4_length_12386_cov_40.990755_1                      -          phage-family-interpro-v4 -           8.1e-125  423.4   0.0    1e-124  423.1   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413721_NODE_356_length_49590_cov_5.007025_44             -          phage-family-interpro-v4 -           1.1e-114  389.9   0.1  1.2e-114  389.7   0.1   1.0   1   0   0   1   1   1   1 -
+Rampelli_SM_40_NODE_4474_length_5087_cov_1.856916_4                 -          phage-family-interpro-v4 -           4.6e-113  384.5   1.2  5.3e-113  384.3   1.2   1.0   1   0   0   1   1   1   1 -
+Han_2018_ERR1398252_NODE_3961_length_7003_cov_3.469775_10           -          phage-family-interpro-v4 -            2.9e-94  322.3   0.3   3.5e-94  322.0   0.3   1.0   1   0   0   1   1   1   1 -
+Han_2018_ERR1398252_NODE_3961_length_7003_cov_3.469775_8            -          phage-family-interpro-v4 -            2.4e-93  319.2   0.2   3.1e-93  318.8   0.2   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413734_NODE_1854_length_13844_cov_2.760751_15            -          phage-family-interpro-v4 -            3.8e-91  311.9   0.0   4.3e-91  311.7   0.0   1.1   1   0   0   1   1   1   1 -
+Ma_2019_SRR1778452_NODE_5187_length_5173_cov_3.565455_9             -          phage-family-interpro-v4 -            1.5e-82  283.5   0.1   1.7e-82  283.3   0.1   1.0   1   0   0   1   1   1   1 -
+Zuo_2019_SRR8240690_NODE_577_length_7372_cov_6.590679_4             -          phage-family-interpro-v4 -              4e-69  239.0   0.0   4.8e-69  238.8   0.0   1.0   1   0   0   1   1   1   1 -
+Reyes_2015_F194_T1_NODE_36_length_6918_cov_153.411280_9             -          phage-family-interpro-v4 -            1.6e-65  227.1   0.0   1.8e-65  226.9   0.0   1.0   1   0   0   1   1   1   1 -
+Rampelli_SM_40_NODE_4474_length_5087_cov_1.856916_5                 -          phage-family-interpro-v4 -            2.6e-57  199.9   1.5   2.6e-57  199.9   1.5   1.6   1   1   1   2   2   2   1 -
+Ma_2019_SRR413721_NODE_356_length_49590_cov_5.007025_45             -          phage-family-interpro-v4 -            7.1e-54  188.5   2.0   8.3e-54  188.3   2.0   1.0   1   0   0   1   1   1   1 -
+SRR7892449_NODE_1_length_72873_cov_5811.685778_32                   -          phage-family-interpro-v4 -            1.6e-47  167.5   0.0   2.5e-45  160.3   0.0   2.1   1   1   0   1   1   1   1 -
+Zuo_2019_SRR8240680_NODE_64_length_20296_cov_557.836421_33          -          phage-family-interpro-v4 -            4.5e-47  166.0   1.1   3.7e-39  139.8   0.0   2.7   2   1   0   2   2   2   2 -
+Shkoporov_2018_SRR6128101_NODE_13_length_77793_cov_74.940557_81     -          phage-family-interpro-v4 -            7.4e-45  158.7   5.9     8e-40  142.0   2.7   2.4   2   1   0   2   2   2   2 -
+SRR7892430_NODE_27_length_11706_cov_57.387005_12                    -          phage-family-interpro-v4 -              9e-42  148.5   0.0   1.1e-41  148.1   0.0   1.0   1   0   0   1   1   1   1 -
+Ma_2019_SRR413568_NODE_106_length_76332_cov_85.365471_24            -          phage-family-interpro-v4 -            2.5e-34  123.8   0.0   1.8e-25   94.5   0.1   3.0   2   1   1   3   3   3   2 -
+Moreno-Gallego_2019_ERR2867985_NODE_11_length_36840_cov_13.376403_3 -          phage-family-interpro-v4 -            9.9e-27   98.7   2.5   1.6e-24   91.4   0.1   2.1   2   0   0   2   2   2   2 -
+Reyes_2015_F268_T2_NODE_12_length_32917_cov_5.024611_3              -          phage-family-interpro-v4 -            5.2e-26   96.3   1.6     6e-26   96.1   1.6   1.0   1   0   0   1   1   1   1 -
+Zuo_2019_SRR8240680_NODE_64_length_20296_cov_557.836421_29          -          phage-family-interpro-v4 -            2.3e-18   71.0   0.5   3.1e-18   70.6   0.5   1.1   1   0   0   1   1   1   1 -
+SRR7892433_NODE_6_length_45474_cov_86.067747_1                      -          phage-family-interpro-v4 -            3.8e-12   50.4   0.1   3.8e-08   37.2   0.0   3.0   2   1   0   2   2   2   2 -
+SRR7892428_NODE_76_length_6938_cov_128.007991_2                     -          phage-family-interpro-v4 -            6.7e-12   49.6   0.1   1.3e-09   42.1   0.0   2.1   2   0   0   2   2   2   1 -
+SRR7892461_NODE_4_length_47009_cov_68.309686_2                      -          phage-family-interpro-v4 -            2.7e-11   47.6   0.4   7.5e-10   42.8   0.0   2.6   2   1   0   2   2   2   1 -
+Ma_2019_SRR413583_NODE_2995_length_6624_cov_2.279647_10             -          phage-family-interpro-v4 -            3.1e-09   40.8   1.7   3.1e-09   40.8   1.7   1.7   2   1   0   2   2   2   1 -
+SRR7892470_NODE_3_length_47496_cov_1187.939124_1                    -          phage-family-interpro-v4 -            8.9e-09   39.3   0.0   1.4e-08   38.6   0.0   1.3   1   0   0   1   1   1   1 -
+SRR7892449_NODE_1_length_72873_cov_5811.685778_34                   -          phage-family-interpro-v4 -            4.6e-08   36.9   1.9     7e-08   36.3   1.8   1.4   1   1   0   1   1   1   1 -
+Ma_2019_SRR413568_NODE_106_length_76332_cov_85.365471_25            -          phage-family-interpro-v4 -              3e-07   34.2   0.2     4e-07   33.8   0.2   1.1   1   0   0   1   1   1   1 -
+SRR7892484_NODE_19_length_16682_cov_16.625850_2                     -          phage-family-interpro-v4 -            0.00035   24.1   2.6    0.0029   21.0   0.4   2.3   2   0   0   2   2   2   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hmm/phage-family-interpro-v4.hmm
+# Target file:     phagescope/GVD.fasta
+# Option settings: hmmsearch -o output/GVD_hmmout.txt --tblout output/GVD_hmmout.tbl.txt --noali -E 0.001 --cpu 50 hmm/phage-family-interpro-v4.hmm phagescope/GVD.fasta 
+# Current dir:     /stor/scratch/Wilke/amh7958/rnap-bioinformatics
+# Date:            Tue May 21 13:56:24 2024
+# [ok]

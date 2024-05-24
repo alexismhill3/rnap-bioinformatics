@@ -1,0 +1,565 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  hmm/phage-family-interpro-v4.hmm
+# target sequence database:        phagescope/GVD.fasta
+# output directed to file:         output/GVD_hmmout.txt
+# per-seq hits tabular output:     output/GVD_hmmout.tbl.txt
+# show alignments in output:       no
+# sequence reporting threshold:    E-value <= 0.001
+# number of worker threads:        50
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       phage-family-interpro-v4  [M=997]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                                                            Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                                                            -----------
+          0 1013.4   0.1          0 1013.3   0.1    1.0  1  Ma_2019_SRR341678_NODE_317_length_41243_cov_67.126032_42             
+   1.7e-300 1004.9   0.0   1.9e-300 1004.7   0.0    1.0  1  SRR7892431_NODE_5_length_39514_cov_32.711067_25                      
+   9.6e-287  959.4   0.1   1.1e-286  959.2   0.1    1.0  1  SRR7892456_NODE_33_length_7619_cov_29.800502_6                       
+   1.3e-273  916.0   0.0   1.4e-273  915.8   0.0    1.0  1  Broecker_Sample_ID29-1191-3_NODE_102_length_38363_cov_11.011251_44   
+   4.2e-256  858.0   0.0   5.2e-256  857.6   0.0    1.0  1  Reyes_2015_F112_T1_NODE_5_length_48935_cov_36.137293_53              
+   4.3e-255  854.6   0.0   5.3e-255  854.3   0.0    1.0  1  Han_2018_ERR1398246_NODE_859_length_15055_cov_4.942867_17            
+   5.9e-255  854.1   0.0   7.3e-255  853.8   0.0    1.0  1  Rampelli_10017_NODE_250_length_40110_cov_15.836350_33                
+   5.3e-250  837.8   0.1   5.9e-250  837.6   0.1    1.0  1  Rampelli_10023_NODE_30_length_45460_cov_4.603634_41                  
+   1.6e-248  832.9   0.0   1.9e-248  832.6   0.0    1.0  1  Zuo_2019_SRR8240683_NODE_207_length_19048_cov_34.129837_12           
+   1.9e-239  802.8   0.4   2.2e-239  802.6   0.4    1.0  1  Ma_2019_SRR1778452_NODE_601_length_35324_cov_15.675522_30            
+   3.6e-238  798.6   0.0     4e-238  798.4   0.0    1.0  1  Zuo_2019_SRR8240688_NODE_36_length_34231_cov_163.778207_2            
+   7.3e-238  797.6   0.1   8.2e-238  797.4   0.1    1.0  1  Han_2018_ERR1398227_NODE_92_length_44625_cov_34.029616_34            
+   7.9e-235  787.5   0.0   9.6e-235  787.3   0.0    1.0  1  Nadia_combined_trimmed_NODE_14_length_58060_cov_127.928937_24        
+   9.9e-234  783.9   2.5   1.1e-233  783.7   2.5    1.0  1  Monaco_MBA4010_NODE_317_length_16723_cov_7.781497_3                  
+   1.5e-233  783.3   0.0   1.6e-233  783.2   0.0    1.0  1  Nadia_combined_trimmed_NODE_14_length_58060_cov_127.928937_74        
+   3.1e-226  759.1   0.0   3.6e-226  758.9   0.0    1.0  1  Ma_2019_SRR413717_NODE_194_length_45232_cov_3.487947_1               
+   1.3e-225  757.0   0.0   1.5e-225  756.8   0.0    1.0  1  Ma_2019_SRR341714_NODE_224_length_46619_cov_20.739262_8              
+   4.8e-225  755.2   0.3   5.6e-225  754.9   0.3    1.0  1  SRR7892452_NODE_14_length_39115_cov_96.860573_33                     
+     3e-224  752.5   0.3   3.7e-224  752.2   0.3    1.0  1  SRR7892427_NODE_15_length_42299_cov_371.946241_19                    
+   6.1e-224  751.5   0.4   7.2e-224  751.3   0.4    1.0  1  SRR7892429_NODE_8_length_43482_cov_163.852672_48                     
+   7.8e-224  751.1   0.5   9.5e-224  750.9   0.5    1.0  1  SRR7892483_NODE_3_length_44168_cov_108.414186_5                      
+   9.3e-224  750.9   0.1   1.1e-223  750.6   0.1    1.0  1  Ma_2019_SRR413656_NODE_262_length_43365_cov_74.873378_36             
+   2.8e-217  729.5   0.0   3.1e-217  729.3   0.0    1.0  1  Han_2018_ERR1398154_NODE_1894_length_8882_cov_2.939844_6             
+   2.4e-215  723.0   0.0   2.7e-215  722.9   0.0    1.0  1  Monaco_MBA4038_NODE_26_length_36722_cov_11.080890_20                 
+   1.2e-214  720.8   0.0   1.4e-214  720.5   0.0    1.0  1  Ma_2019_SRR413727_NODE_925_length_30506_cov_2.609734_5               
+   5.3e-212  712.0   0.0   6.4e-212  711.7   0.0    1.0  1  Ma_2019_SRR341661_NODE_362_length_45429_cov_48.701701_28             
+   6.7e-212  711.6   0.0   7.9e-212  711.4   0.0    1.0  1  Zuo_2019_SRR8240690_NODE_577_length_7372_cov_6.590679_5              
+   6.5e-211  708.4   0.0   7.2e-211  708.2   0.0    1.0  1  Monaco_MBA1751_NODE_51_length_20846_cov_12.657737_25                 
+     1e-206  694.5   9.0   1.1e-206  694.3   9.0    1.0  1  Kang_0027_ST001_A_NODE_79_length_20645_cov_191.333123_10             
+   4.7e-205  689.0   0.0   5.7e-205  688.7   0.0    1.0  1  Shkoporov_2019_SRR9161591_NODE_35_length_34889_cov_251.200810_11     
+   1.6e-204  687.2   1.4   1.7e-204  687.1   1.4    1.0  1  Ma_2019_SRR413685_NODE_47_length_111668_cov_12.620286_17             
+   2.5e-204  686.6   0.0     3e-204  686.3   0.0    1.0  1  Han_2018_ERR1398150_NODE_58_length_43653_cov_10.293798_11            
+   7.8e-204  684.9   0.2   9.2e-204  684.7   0.2    1.0  1  Ma_2019_SRR341598_NODE_1463_length_8865_cov_1.864926_13              
+   6.3e-203  681.9   0.0   7.8e-203  681.6   0.0    1.0  1  SRR7892427_NODE_13_length_43090_cov_264.621787_32                    
+   1.8e-202  680.4   0.6   2.2e-202  680.1   0.6    1.0  1  Ma_2019_SRR413664_NODE_176_length_60027_cov_3.989445_16              
+   2.4e-199  670.1   0.0   2.9e-199  669.8   0.0    1.0  1  Ma_2019_SRR413644_NODE_389_length_44739_cov_4.403925_42              
+   2.7e-198  666.6   1.0   3.3e-198  666.3   1.0    1.0  1  Shkoporov_2019_SRR9161580_NODE_13_length_41540_cov_70.743570_6       
+   5.7e-198  665.5   0.6   6.3e-198  665.4   0.6    1.0  1  Ma_2019_SRR413647_NODE_392_length_38739_cov_10.265950_9              
+   8.4e-198  665.0   0.2   9.8e-198  664.7   0.2    1.0  1  Ma_2019_SRR413761_NODE_790_length_44409_cov_2.479032_9               
+   1.8e-193  650.6   2.9   2.1e-193  650.4   2.9    1.0  1  Ma_2019_SRR341680_NODE_179_length_43486_cov_14.141305_41             
+   1.5e-192  647.6   0.9   1.8e-192  647.3   0.9    1.0  1  SRR7892431_NODE_95_length_7898_cov_22.015300_4                       
+   6.7e-192  645.4   0.6   8.5e-192  645.1   0.6    1.1  1  SRR7892464_NODE_6_length_42680_cov_76.028880_36                      
+   7.7e-192  645.2   0.1   8.6e-192  645.1   0.1    1.0  1  Shkoporov_2019_SRR9161588_NODE_40_length_42055_cov_21.772310_40      
+   4.4e-190  639.4   0.6   5.5e-190  639.1   0.6    1.0  1  SRR7892433_NODE_9_length_42343_cov_52.509979_2                       
+   6.2e-190  638.9   0.1   7.5e-190  638.6   0.1    1.0  1  Ma_2019_SRR413705_NODE_381_length_40031_cov_2.251976_29              
+   4.1e-188  632.9   0.0   4.6e-188  632.7   0.0    1.0  1  Ma_2019_SRR413741_NODE_323_length_41452_cov_4.544919_39              
+     1e-184  621.6   0.7   1.1e-184  621.5   0.7    1.0  1  Ma_2019_SRR413656_NODE_205_length_53976_cov_2.821813_9               
+   3.3e-184  620.0   0.0   3.7e-184  619.8   0.0    1.0  1  Ma_2019_SRR341655_NODE_258_length_42603_cov_3.116010_41              
+   7.3e-179  602.3   0.0   8.7e-179  602.0   0.0    1.0  1  Shkoporov_2019_SRR9161509_NODE_2886_length_5865_cov_5.169191_7       
+     6e-176  592.6   0.0   7.4e-176  592.3   0.0    1.0  1  Rampelli_10018_NODE_803_length_11940_cov_3.184182_1                  
+   4.1e-174  586.6   4.2   4.9e-174  586.3   4.2    1.0  1  Ma_2019_SRR341681_NODE_306_length_44253_cov_3.983054_44              
+     5e-170  573.0   0.0     6e-170  572.8   0.0    1.0  1  Ma_2019_SRR341661_NODE_897_length_21336_cov_6.375170_9               
+   3.3e-168  567.0   0.0     4e-168  566.7   0.0    1.0  1  Ma_2019_SRR413636_NODE_160_length_48833_cov_4.499549_43              
+     3e-164  553.9   0.0   3.4e-164  553.7   0.0    1.0  1  SRR7892433_NODE_6_length_45474_cov_86.067747_22                      
+   1.4e-157  531.8   0.0   1.7e-157  531.5   0.0    1.0  1  SRR7892461_NODE_4_length_47009_cov_68.309686_32                      
+   3.1e-156  527.4   0.0   3.8e-156  527.1   0.0    1.0  1  SRR7892470_NODE_3_length_47496_cov_1187.939124_31                    
+     2e-145  491.6   0.0   2.2e-145  491.4   0.0    1.0  1  SRR7892439_NODE_2_length_42693_cov_524.347859_11                     
+   5.2e-144  486.9   0.0   6.2e-144  486.6   0.0    1.0  1  Reyes_2015_F194_T1_NODE_22_length_12928_cov_100.341614_1             
+   2.6e-138  468.0   0.0   2.9e-138  467.9   0.0    1.0  1  Reyes_2015_F268_T2_NODE_12_length_32917_cov_5.024611_4               
+   8.1e-125  423.4   0.0     1e-124  423.1   0.0    1.0  1  SRR7892481_NODE_4_length_12386_cov_40.990755_1                       
+   1.1e-114  389.9   0.1   1.2e-114  389.7   0.1    1.0  1  Ma_2019_SRR413721_NODE_356_length_49590_cov_5.007025_44              
+   4.6e-113  384.5   1.2   5.3e-113  384.3   1.2    1.0  1  Rampelli_SM_40_NODE_4474_length_5087_cov_1.856916_4                  
+    2.9e-94  322.3   0.3    3.5e-94  322.0   0.3    1.0  1  Han_2018_ERR1398252_NODE_3961_length_7003_cov_3.469775_10            
+    2.4e-93  319.2   0.2    3.1e-93  318.8   0.2    1.0  1  Han_2018_ERR1398252_NODE_3961_length_7003_cov_3.469775_8             
+    3.8e-91  311.9   0.0    4.3e-91  311.7   0.0    1.1  1  Ma_2019_SRR413734_NODE_1854_length_13844_cov_2.760751_15             
+    1.5e-82  283.5   0.1    1.7e-82  283.3   0.1    1.0  1  Ma_2019_SRR1778452_NODE_5187_length_5173_cov_3.565455_9              
+      4e-69  239.0   0.0    4.8e-69  238.8   0.0    1.0  1  Zuo_2019_SRR8240690_NODE_577_length_7372_cov_6.590679_4              
+    1.6e-65  227.1   0.0    1.8e-65  226.9   0.0    1.0  1  Reyes_2015_F194_T1_NODE_36_length_6918_cov_153.411280_9              
+    2.6e-57  199.9   1.5    2.6e-57  199.9   1.5    1.6  2  Rampelli_SM_40_NODE_4474_length_5087_cov_1.856916_5                  
+    7.1e-54  188.5   2.0    8.3e-54  188.3   2.0    1.0  1  Ma_2019_SRR413721_NODE_356_length_49590_cov_5.007025_45              
+    1.6e-47  167.5   0.0    2.5e-45  160.3   0.0    2.1  1  SRR7892449_NODE_1_length_72873_cov_5811.685778_32                    
+    4.5e-47  166.0   1.1    3.7e-39  139.8   0.0    2.7  2  Zuo_2019_SRR8240680_NODE_64_length_20296_cov_557.836421_33           
+    7.4e-45  158.7   5.9      8e-40  142.0   2.7    2.4  2  Shkoporov_2018_SRR6128101_NODE_13_length_77793_cov_74.940557_81      
+      9e-42  148.5   0.0    1.1e-41  148.1   0.0    1.0  1  SRR7892430_NODE_27_length_11706_cov_57.387005_12                     
+    2.5e-34  123.8   0.0    1.8e-25   94.5   0.1    3.0  3  Ma_2019_SRR413568_NODE_106_length_76332_cov_85.365471_24             
+    9.9e-27   98.7   2.5    1.6e-24   91.4   0.1    2.1  2  Moreno-Gallego_2019_ERR2867985_NODE_11_length_36840_cov_13.376403_3  
+    5.2e-26   96.3   1.6      6e-26   96.1   1.6    1.0  1  Reyes_2015_F268_T2_NODE_12_length_32917_cov_5.024611_3               
+    2.3e-18   71.0   0.5    3.1e-18   70.6   0.5    1.1  1  Zuo_2019_SRR8240680_NODE_64_length_20296_cov_557.836421_29           
+    3.8e-12   50.4   0.1    3.8e-08   37.2   0.0    3.0  2  SRR7892433_NODE_6_length_45474_cov_86.067747_1                       
+    6.7e-12   49.6   0.1    1.3e-09   42.1   0.0    2.1  2  SRR7892428_NODE_76_length_6938_cov_128.007991_2                      
+    2.7e-11   47.6   0.4    7.5e-10   42.8   0.0    2.6  2  SRR7892461_NODE_4_length_47009_cov_68.309686_2                       
+    3.1e-09   40.8   1.7    3.1e-09   40.8   1.7    1.7  2  Ma_2019_SRR413583_NODE_2995_length_6624_cov_2.279647_10              
+    8.9e-09   39.3   0.0    1.4e-08   38.6   0.0    1.3  1  SRR7892470_NODE_3_length_47496_cov_1187.939124_1                     
+    4.6e-08   36.9   1.9      7e-08   36.3   1.8    1.4  1  SRR7892449_NODE_1_length_72873_cov_5811.685778_34                    
+      3e-07   34.2   0.2      4e-07   33.8   0.2    1.1  1  Ma_2019_SRR413568_NODE_106_length_76332_cov_85.365471_25             
+    0.00035   24.1   2.6     0.0029   21.0   0.4    2.3  2  SRR7892484_NODE_19_length_16682_cov_16.625850_2                      
+
+
+Domain annotation for each sequence:
+>> Ma_2019_SRR341678_NODE_317_length_41243_cov_67.126032_42  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 1013.3   0.1         0         0     153     996 ..       9     905 ..       1     906 [] 0.97
+
+>> SRR7892431_NODE_5_length_39514_cov_32.711067_25  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 1004.7   0.0  2.2e-304  1.9e-300     152     996 ..       8     882 ..       1     883 [] 0.97
+
+>> SRR7892456_NODE_33_length_7619_cov_29.800502_6  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  959.2   0.1  1.2e-290  1.1e-286     153     996 ..      10     882 ..       1     883 [] 0.95
+
+>> Broecker_Sample_ID29-1191-3_NODE_102_length_38363_cov_11.011251_44  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  915.8   0.0  1.6e-277  1.4e-273     152     996 ..       9     884 ..       1     885 [] 0.96
+
+>> Reyes_2015_F112_T1_NODE_5_length_48935_cov_36.137293_53  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  857.6   0.0    6e-260  5.2e-256     164     996 ..      19     892 ..       5     893 .] 0.93
+
+>> Han_2018_ERR1398246_NODE_859_length_15055_cov_4.942867_17  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  854.3   0.0  6.1e-259  5.3e-255     165     996 ..      20     892 ..       5     893 .] 0.93
+
+>> Rampelli_10017_NODE_250_length_40110_cov_15.836350_33  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  853.8   0.0  8.5e-259  7.3e-255     165     996 ..      20     892 ..       5     893 .] 0.92
+
+>> Rampelli_10023_NODE_30_length_45460_cov_4.603634_41  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  837.6   0.1  6.8e-254  5.9e-250     174     996 ..       1     873 [.       1     874 [] 0.94
+
+>> Zuo_2019_SRR8240683_NODE_207_length_19048_cov_34.129837_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  832.6   0.0  2.2e-252  1.9e-248     154     996 ..      10     891 ..       3     892 .] 0.92
+
+>> Ma_2019_SRR1778452_NODE_601_length_35324_cov_15.675522_30  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  802.6   0.4  2.5e-243  2.2e-239     161     996 ..      12     872 ..       2     873 .] 0.94
+
+>> Zuo_2019_SRR8240688_NODE_36_length_34231_cov_163.778207_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  798.4   0.0  4.6e-242    4e-238     204     996 ..       1     833 [.       1     834 [] 0.93
+
+>> Han_2018_ERR1398227_NODE_92_length_44625_cov_34.029616_34  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  797.4   0.1  9.4e-242  8.2e-238     175     996 ..       2     872 ..       1     873 [] 0.93
+
+>> Nadia_combined_trimmed_NODE_14_length_58060_cov_127.928937_24  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  787.3   0.0  1.1e-238  9.6e-235     169     997 .]      20     878 .]       3     878 .] 0.92
+
+>> Monaco_MBA4010_NODE_317_length_16723_cov_7.781497_3  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  783.7   2.5  1.3e-237  1.1e-233     179     997 .]       3     828 .]       1     828 [] 0.93
+
+>> Nadia_combined_trimmed_NODE_14_length_58060_cov_127.928937_74  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  783.2   0.0  1.9e-237  1.6e-233     165     997 .]      12     878 .]       1     878 [] 0.91
+
+>> Ma_2019_SRR413717_NODE_194_length_45232_cov_3.487947_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  758.9   0.0  4.1e-230  3.6e-226     164     996 ..      15     879 ..       2     880 .] 0.92
+
+>> Ma_2019_SRR341714_NODE_224_length_46619_cov_20.739262_8  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  756.8   0.0  1.7e-229  1.5e-225     175     996 ..       2     877 ..       1     878 [] 0.93
+
+>> SRR7892452_NODE_14_length_39115_cov_96.860573_33  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  754.9   0.3  6.4e-229  5.6e-225     173     996 ..      16     867 ..       2     868 .] 0.90
+
+>> SRR7892427_NODE_15_length_42299_cov_371.946241_19  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  752.2   0.3  4.2e-228  3.7e-224     168     997 .]      20     879 .]       3     879 .] 0.91
+
+>> SRR7892429_NODE_8_length_43482_cov_163.852672_48  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  751.3   0.4  8.3e-228  7.2e-224     173     996 ..      16     867 ..       2     868 .] 0.90
+
+>> SRR7892483_NODE_3_length_44168_cov_108.414186_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  750.9   0.5  1.1e-227  9.5e-224     160     997 .]       8     878 .]       2     878 .] 0.92
+
+>> Ma_2019_SRR413656_NODE_262_length_43365_cov_74.873378_36  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  750.6   0.1  1.3e-227  1.1e-223     161     997 .]       9     878 .]       2     878 .] 0.92
+
+>> Han_2018_ERR1398154_NODE_1894_length_8882_cov_2.939844_6  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  729.3   0.0  3.6e-221  3.1e-217     175     996 ..       5     865 ..       1     866 [] 0.93
+
+>> Monaco_MBA4038_NODE_26_length_36722_cov_11.080890_20  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  722.9   0.0  3.1e-219  2.7e-215     170     996 ..       2     813 ..       1     814 [] 0.92
+
+>> Ma_2019_SRR413727_NODE_925_length_30506_cov_2.609734_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  720.5   0.0  1.6e-218  1.4e-214     171     996 ..      19     881 ..       6     882 .] 0.91
+
+>> Ma_2019_SRR341661_NODE_362_length_45429_cov_48.701701_28  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  711.7   0.0  7.4e-216  6.4e-212     174     996 ..       4     876 ..       2     877 .] 0.90
+
+>> Zuo_2019_SRR8240690_NODE_577_length_7372_cov_6.590679_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  711.4   0.0  9.1e-216  7.9e-212     173     997 .]      19     851 .]       2     851 .] 0.92
+
+>> Monaco_MBA1751_NODE_51_length_20846_cov_12.657737_25  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  708.2   0.0  8.4e-215  7.2e-211     167     996 ..      13     882 ..       1     883 [] 0.89
+
+>> Kang_0027_ST001_A_NODE_79_length_20645_cov_191.333123_10  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  694.3   9.0  1.3e-210  1.1e-206     172     997 .]       3     841 .]       1     841 [] 0.92
+
+>> Shkoporov_2019_SRR9161591_NODE_35_length_34889_cov_251.200810_11  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  688.7   0.0  6.6e-209  5.7e-205     179     996 ..      26     864 ..       5     865 .] 0.92
+
+>> Ma_2019_SRR413685_NODE_47_length_111668_cov_12.620286_17  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  687.1   1.4    2e-208  1.7e-204     178     997 .]       8     840 .]       1     840 [] 0.92
+
+>> Han_2018_ERR1398150_NODE_58_length_43653_cov_10.293798_11  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  686.3   0.0  3.5e-208    3e-204     175     996 ..      13     821 ..       8     822 .] 0.91
+
+>> Ma_2019_SRR341598_NODE_1463_length_8865_cov_1.864926_13  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  684.7   0.2  1.1e-207  9.2e-204     180     997 .]       9     839 .]       2     839 .] 0.92
+
+>> SRR7892427_NODE_13_length_43090_cov_264.621787_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  681.6   0.0    9e-207  7.8e-203     175     997 .]      13     822 .]       8     822 .] 0.90
+
+>> Ma_2019_SRR413664_NODE_176_length_60027_cov_3.989445_16  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  680.1   0.6  2.5e-206  2.2e-202     178     997 .]      13     849 .]       7     849 .] 0.90
+
+>> Ma_2019_SRR413644_NODE_389_length_44739_cov_4.403925_42  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  669.8   0.0  3.3e-203  2.9e-199     174     996 ..       9     818 ..       3     819 .] 0.90
+
+>> Shkoporov_2019_SRR9161580_NODE_13_length_41540_cov_70.743570_6  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  666.3   1.0  3.8e-202  3.3e-198     178     996 ..       8     853 ..       2     854 .] 0.90
+
+>> Ma_2019_SRR413647_NODE_392_length_38739_cov_10.265950_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  665.4   0.6  7.3e-202  6.3e-198     180     996 ..      12     846 ..       1     847 [] 0.89
+
+>> Ma_2019_SRR413761_NODE_790_length_44409_cov_2.479032_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  664.7   0.2  1.1e-201  9.8e-198     180     997 .]       9     836 .]       2     836 .] 0.91
+
+>> Ma_2019_SRR341680_NODE_179_length_43486_cov_14.141305_41  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  650.4   2.9  2.4e-197  2.1e-193     172     996 ..      10     899 ..       2     900 .] 0.88
+
+>> SRR7892431_NODE_95_length_7898_cov_22.015300_4  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  647.3   0.9  2.1e-196  1.8e-192     181     996 ..       7     872 ..       2     873 .] 0.88
+
+>> SRR7892464_NODE_6_length_42680_cov_76.028880_36  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  645.1   0.6  9.8e-196  8.5e-192     181     996 ..       7     874 ..       3     875 .] 0.87
+
+>> Shkoporov_2019_SRR9161588_NODE_40_length_42055_cov_21.772310_40  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  645.1   0.1  9.9e-196  8.6e-192     172     997 .]       4     860 .]       1     860 [] 0.88
+
+>> SRR7892433_NODE_9_length_42343_cov_52.509979_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  639.1   0.6  6.3e-194  5.5e-190     180     996 ..       6     873 ..       3     874 .] 0.88
+
+>> Ma_2019_SRR413705_NODE_381_length_40031_cov_2.251976_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  638.6   0.1  8.6e-194  7.5e-190     179     996 ..       5     845 ..       2     846 .] 0.91
+
+>> Ma_2019_SRR413741_NODE_323_length_41452_cov_4.544919_39  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  632.7   0.0  5.3e-192  4.6e-188     178     996 ..       4     852 ..       1     853 [] 0.89
+
+>> Ma_2019_SRR413656_NODE_205_length_53976_cov_2.821813_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  621.5   0.7  1.3e-188  1.1e-184     174     996 ..       3     864 ..       1     865 [] 0.87
+
+>> Ma_2019_SRR341655_NODE_258_length_42603_cov_3.116010_41  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  619.8   0.0  4.3e-188  3.7e-184     179     996 ..       7     835 ..       1     836 [] 0.89
+
+>> Shkoporov_2019_SRR9161509_NODE_2886_length_5865_cov_5.169191_7  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  602.0   0.0    1e-182  8.7e-179     424     996 ..       7     581 ..       3     582 .] 0.95
+
+>> Rampelli_10018_NODE_803_length_11940_cov_3.184182_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  592.3   0.0  8.5e-180  7.4e-176     175     925 ..      13     756 ..       8     757 .] 0.89
+
+>> Ma_2019_SRR341681_NODE_306_length_44253_cov_3.983054_44  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  586.3   4.2  5.7e-178  4.9e-174     179     996 ..       9     876 ..       2     877 .] 0.89
+
+>> Ma_2019_SRR341661_NODE_897_length_21336_cov_6.375170_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  572.8   0.0  6.9e-174    6e-170     179     996 ..       9     873 ..       2     874 .] 0.88
+
+>> Ma_2019_SRR413636_NODE_160_length_48833_cov_4.499549_43  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  566.7   0.0  4.6e-172    4e-168     178     996 ..       8     876 ..       2     877 .] 0.87
+
+>> SRR7892433_NODE_6_length_45474_cov_86.067747_22  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  553.7   0.0  3.9e-168  3.4e-164     179     996 ..       5     804 ..       1     805 [] 0.91
+
+>> SRR7892461_NODE_4_length_47009_cov_68.309686_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  531.5   0.0    2e-161  1.7e-157     177     996 ..      10     806 ..       4     807 .] 0.89
+
+>> SRR7892470_NODE_3_length_47496_cov_1187.939124_31  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  527.1   0.0  4.4e-160  3.8e-156     178     996 ..      12     807 ..       5     808 .] 0.89
+
+>> SRR7892439_NODE_2_length_42693_cov_524.347859_11  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  491.4   0.0  2.6e-149  2.2e-145     176     996 ..       2     808 ..       1     809 [] 0.87
+
+>> Reyes_2015_F194_T1_NODE_22_length_12928_cov_100.341614_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  486.6   0.0  7.2e-148  6.2e-144     174     772 ..      12     608 ..       3     609 .] 0.90
+
+>> Reyes_2015_F268_T2_NODE_12_length_32917_cov_5.024611_4  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  467.9   0.0  3.3e-142  2.9e-138     534     996 ..       2     483 ..       1     484 [] 0.96
+
+>> SRR7892481_NODE_4_length_12386_cov_40.990755_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  423.1   0.0  1.2e-128    1e-124     175     717 ..      13     558 .]       8     558 .] 0.88
+
+>> Ma_2019_SRR413721_NODE_356_length_49590_cov_5.007025_44  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  389.7   0.1  1.4e-118  1.2e-114     583     996 ..       2     424 ..       1     425 [] 0.94
+
+>> Rampelli_SM_40_NODE_4474_length_5087_cov_1.856916_4  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  384.3   1.2  6.1e-117  5.3e-113     618     997 .]      17     373 .]      14     373 .] 0.96
+
+>> Han_2018_ERR1398252_NODE_3961_length_7003_cov_3.469775_10  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  322.0   0.3   4.1e-98   3.5e-94     688     996 ..      18     329 ..      18     330 .] 0.95
+
+>> Han_2018_ERR1398252_NODE_3961_length_7003_cov_3.469775_8  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  318.8   0.2   3.6e-97   3.1e-93     181     687 ..      13     537 ..       5     538 .. 0.87
+
+>> Ma_2019_SRR413734_NODE_1854_length_13844_cov_2.760751_15  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  311.7   0.0     5e-95   4.3e-91     546     765 ..       2     231 ..       1     280 [. 0.96
+
+>> Ma_2019_SRR1778452_NODE_5187_length_5173_cov_3.565455_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  283.3   0.1   1.9e-86   1.7e-82     178     655 ..       8     489 .]       1     489 [] 0.89
+
+>> Zuo_2019_SRR8240690_NODE_577_length_7372_cov_6.590679_4  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  238.8   0.0   5.5e-73   4.8e-69     173     587 ..      19     444 ..       2     461 .. 0.88
+
+>> Reyes_2015_F194_T1_NODE_36_length_6918_cov_153.411280_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  226.9   0.0   2.1e-69   1.8e-65     740     996 ..       8     250 ..       1     251 [] 0.93
+
+>> Rampelli_SM_40_NODE_4474_length_5087_cov_1.856916_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -0.7   0.0       1.2     1e+04     202     263 ..      20      80 ..       3     109 .. 0.63
+   2 !  199.9   1.5     3e-61   2.6e-57     345     617 ..     107     373 ..      85     375 .. 0.85
+
+>> Ma_2019_SRR413721_NODE_356_length_49590_cov_5.007025_45  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  188.3   2.0   9.5e-58   8.3e-54     176     579 ..       4     412 ..       1     415 [. 0.83
+
+>> SRR7892449_NODE_1_length_72873_cov_5811.685778_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  160.3   0.0   2.9e-49   2.5e-45     598     962 ..       6     382 ..       4     400 .. 0.85
+
+>> Zuo_2019_SRR8240680_NODE_64_length_20296_cov_557.836421_33  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  139.8   0.0   4.3e-43   3.7e-39     597     769 ..       5     144 ..       2     149 .. 0.94
+   2 !   23.6   0.3   5.6e-08   0.00049     838     963 ..     189     376 ..     153     399 .] 0.70
+
+>> Shkoporov_2018_SRR6128101_NODE_13_length_77793_cov_74.940557_81  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  142.0   2.7   9.2e-44     8e-40     396     725 ..     144     443 ..       5     448 .. 0.81
+   2 !   17.3   0.1   4.4e-06     0.038     914     966 ..     651     702 ..     641     720 .. 0.86
+
+>> SRR7892430_NODE_27_length_11706_cov_57.387005_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  148.1   0.0   1.3e-45   1.1e-41     165     435 ..      20     306 ..       4     312 .. 0.85
+
+>> Ma_2019_SRR413568_NODE_106_length_76332_cov_85.365471_24  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   94.5   0.1   2.1e-29   1.8e-25     597     772 ..      15     161 ..      10     168 .. 0.94
+   2 ?    3.5   0.0     0.066   5.8e+02     821     912 ..     171     272 ..     162     280 .. 0.74
+   3 !   22.2   0.0   1.5e-07    0.0013     906     964 ..     344     401 ..     338     419 .. 0.83
+
+>> Moreno-Gallego_2019_ERR2867985_NODE_11_length_36840_cov_13.376403_3  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    7.0   0.6    0.0058        51     559     579 ..     254     273 ..     227     279 .. 0.81
+   2 !   91.4   0.1   1.8e-28   1.6e-24     679     927 ..     287     543 ..     284     547 .. 0.88
+
+>> Reyes_2015_F268_T2_NODE_12_length_32917_cov_5.024611_3  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   96.1   1.6   6.9e-30     6e-26     178     476 ..       5     313 ..       1     316 [. 0.83
+
+>> Zuo_2019_SRR8240680_NODE_64_length_20296_cov_557.836421_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   70.6   0.5   3.6e-22   3.1e-18     410     592 ..     180     323 ..     167     326 .] 0.85
+
+>> SRR7892433_NODE_6_length_45474_cov_86.067747_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !    6.4   0.0    0.0087        75     553     570 ..      25      42 ..       2      57 .. 0.78
+   2 !   37.2   0.0   4.3e-12   3.8e-08     689     958 ..      74     307 ..      63     316 .. 0.69
+
+>> SRR7892428_NODE_76_length_6938_cov_128.007991_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    5.5   0.0     0.016   1.4e+02     532     585 ..     166     219 ..     121     234 .. 0.81
+   2 !   42.1   0.0   1.5e-13   1.3e-09     795     987 ..     313     509 ..     279     513 .. 0.73
+
+>> SRR7892461_NODE_4_length_47009_cov_68.309686_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    1.7   0.2      0.23     2e+03     463     491 ..     123     151 ..     119     229 .. 0.58
+   2 !   42.8   0.0   8.6e-14   7.5e-10     791     986 ..     306     505 ..     273     510 .. 0.70
+
+>> Ma_2019_SRR413583_NODE_2995_length_6624_cov_2.279647_10  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -2.6   0.1       4.5   3.9e+04     170     200 ..       2      33 ..       1      53 [. 0.58
+   2 !   40.8   1.7   3.6e-13   3.1e-09     410     594 ..     125     269 ..     107     271 .] 0.85
+
+>> SRR7892470_NODE_3_length_47496_cov_1187.939124_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   38.6   0.0   1.7e-12   1.4e-08     749     960 ..     275     486 ..     270     514 .. 0.77
+
+>> SRR7892449_NODE_1_length_72873_cov_5811.685778_34  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   36.3   1.8     8e-12     7e-08     411     595 ..     126     270 ..      82     272 .] 0.75
+
+>> Ma_2019_SRR413568_NODE_106_length_76332_cov_85.365471_25  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.8   0.2   4.6e-11     4e-07     406     594 ..     161     326 ..     119     332 .. 0.73
+
+>> SRR7892484_NODE_19_length_16682_cov_16.625850_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    2.6   0.1      0.12     1e+03     455     528 ..     202     288 ..     165     302 .. 0.71
+   2 !   21.0   0.4   3.3e-07    0.0029     673     783 ..     497     600 ..     484     644 .. 0.71
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (997 nodes)
+Target sequences:                     746146  (170674288 residues searched)
+Passed MSV filter:                     48247  (0.0646616); expected 14922.9 (0.02)
+Passed bias filter:                    14824  (0.0198674); expected 14922.9 (0.02)
+Passed Vit filter:                      1238  (0.00165919); expected 746.1 (0.001)
+Passed Fwd filter:                       136  (0.00018227); expected 7.5 (1e-05)
+Initial search space (Z):             746146  [actual number of targets]
+Domain search space  (domZ):              86  [number of targets reported over threshold]
+# CPU time: 20.06u 2.63s 00:00:22.69 Elapsed: 00:00:02.45
+# Mc/sec: 69318.68
+//
+[ok]

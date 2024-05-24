@@ -1,0 +1,30 @@
+#                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ----------     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+biochar_1803_15      -          phage-family-interpro-v4 -           5.4e-194  650.1   0.1  6.4e-194  649.8   0.1   1.0   1   0   0   1   1   1   1 -
+biochar_3717_5       -          phage-family-interpro-v4 -           5.4e-194  650.1   0.1  6.4e-194  649.8   0.1   1.0   1   0   0   1   1   1   1 -
+biochar_5973_11      -          phage-family-interpro-v4 -           7.7e-194  649.6   0.1    9e-194  649.3   0.1   1.0   1   0   0   1   1   1   1 -
+biochar_2355_19      -          phage-family-interpro-v4 -           3.2e-192  644.2   0.0  3.9e-192  643.9   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_4019_7       -          phage-family-interpro-v4 -           9.9e-192  642.6   0.0  1.2e-191  642.3   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_2600_7       -          phage-family-interpro-v4 -           5.9e-185  620.2   0.0  6.6e-185  620.0   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_2904_7       -          phage-family-interpro-v4 -           5.3e-181  607.1   0.2  6.6e-181  606.8   0.2   1.1   1   0   0   1   1   1   1 -
+biochar_5203_6       -          phage-family-interpro-v4 -           6.7e-181  606.7   0.2  8.3e-181  606.4   0.2   1.1   1   0   0   1   1   1   1 -
+biochar_5364_1       -          phage-family-interpro-v4 -           1.3e-177  595.8   0.0  1.6e-177  595.6   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_1750_32      -          phage-family-interpro-v4 -           5.7e-175  587.1   0.0  6.4e-175  586.9   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_2768_16      -          phage-family-interpro-v4 -           4.9e-171  574.1   0.0  5.5e-171  573.9   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_2514_6       -          phage-family-interpro-v4 -           1.7e-170  572.3   0.0  1.9e-170  572.2   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_3044_13      -          phage-family-interpro-v4 -           1.7e-170  572.3   0.0  1.9e-170  572.2   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_1598_1       -          phage-family-interpro-v4 -           5.3e-152  511.1   0.0  5.9e-152  510.9   0.0   1.0   1   0   0   1   1   1   1 -
+biochar_4282_2       -          phage-family-interpro-v4 -            5.8e-45  156.8   5.7   2.9e-42  147.8   5.7   2.5   1   1   0   1   1   1   1 -
+biochar_4282_3       -          phage-family-interpro-v4 -            5.3e-13   51.0   1.2   1.4e-12   49.6   1.1   1.6   1   1   0   1   1   1   1 -
+biochar_3644_1       -          phage-family-interpro-v4 -            3.5e-10   41.6   0.0   4.1e-10   41.4   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SEARCH
+# Query file:      hmm/phage-family-interpro-v4.hmm
+# Target file:     phagescope/STV.fasta
+# Option settings: hmmsearch -o output/STV_hmmout.txt --tblout output/STV_hmmout.tbl.txt --noali -E 0.001 --cpu 50 hmm/phage-family-interpro-v4.hmm phagescope/STV.fasta 
+# Current dir:     /stor/scratch/Wilke/amh7958/rnap-bioinformatics
+# Date:            Tue May 21 13:58:01 2024
+# [ok]

@@ -16,8 +16,10 @@ def parse_space_delimited_hmmsearch_output(input_file, output_file):
                     data = [x for x in data if x != "name"]
                     data.pop(-1)
                     data.pop(-1)
+                    data[1] = data[1] + "--target"
+                    data[3] = data[3] + "--query"
                     for i in range(7, 10):
-                        data[i] = data[i] + "-best-domain"
+                        data[i] = data[i] + "--best-domain"
                 elif data[0][0] == "#": # skip headers/footers
                     continue
                 csv_writer.writerow(data)

@@ -1,0 +1,62 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r}
+library("tidyverse")
+```
+
+
+```{r}
+# load hmmsearch output and extracted seqs into a single dataframe
+
+all_hits <- data.frame()
+
+prefs <- c("Genbank", "RefSeq", "DDBJ", "EMBL", "PhagesDB", "GPD", "GVD", "MGV", "TemPhD", "CHVD", "IGVD", "IMG_VR", "GOV2", "STV")
+for (pref in prefs) {
+  # Read the current CSV file
+  hmmout <- read.csv(paste("../output/", pref, "_hmmout.csv", sep=""))
+  #seqs <- read.csv(paste("../output/", pref, "_hits.csv", sep=""))
+
+  # Concatenate the current data frame with the accumulated data
+  all_hits <- rbind(all_hits, hmmout)
+}
+
+seq <- read.csv("../scratch/hits_all_id_09_rep_seq.csv")
+all_hits_dedup <- all_hits %>%
+    mutate(Protein_ID = target) %>% 
+    select(-target, -`accession..target`, -`accession..query`) %>% 
+    inner_join(seq, by = c("Protein_ID"))
+
+num_hits_dedup <- nrow(all_hits_dedup) 
+num_hits_tot <- nrow(all_hits) # save total # hits for later
+num_seqs_tot <- 43088582 # total size of db (from phagescope.com)
+```
+
+```{r}
+# calculate the sequence length
+all_hits_dedup <- all_hits_dedup %>%
+  mutate(length = nchar(Sequence))
+```
+
+```{r}
+# histogram of all sequence lengths
+all_hits_dedup %>% 
+  ggplot(aes(x = length)) +
+  geom_histogram(bins = 60) +
+  geom_vline(xintercept=650)
+```
+```{r}
+num_hits_dedup_over_650 <- all_hits_dedup %>% filter(length >= 650) %>% nrow()
+```
+
+```{r}
+size_metrics <- tibble(count = c(num_seqs_tot, num_hits_tot, num_hits_dedup, num_hits_dedup_over_650),
+                       labels = c("DB total size", "total hits", "deduplicated hits", "dedup. hits > 650 aa"))
+
+size_metrics %>% ggplot(aes(y = fct_reorder(labels, count), x = count)) +
+  geom_point(size = 2) +
+  scale_x_continuous(trans = "log10") +
+  scale_y_discrete(name="")
+```

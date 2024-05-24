@@ -1,0 +1,1317 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  hmm/phage-family-interpro-v4.hmm
+# target sequence database:        phagescope/TemPhD.fasta
+# output directed to file:         output/TemPhD_hmmout.txt
+# per-seq hits tabular output:     output/TemPhD_hmmout.tbl.txt
+# show alignments in output:       no
+# sequence reporting threshold:    E-value <= 0.001
+# number of worker threads:        50
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       phage-family-interpro-v4  [M=997]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                -----------
+          0 1019.9   0.0          0 1019.8   0.0    1.0  1  TemPhD_cluster_61510_16  
+   2.9e-256  860.7   0.3   3.3e-256  860.5   0.3    1.0  1  TemPhD_cluster_60546_40  
+   9.8e-255  855.6   0.0   1.2e-254  855.3   0.0    1.0  1  TemPhD_cluster_50246_5   
+   2.6e-254  854.2   0.2   2.9e-254  854.1   0.2    1.0  1  TemPhD_cluster_41173_34  
+   5.1e-254  853.3   0.0   5.9e-254  853.0   0.0    1.0  1  TemPhD_cluster_42970_10  
+   6.4e-254  852.9   0.0   7.9e-254  852.6   0.0    1.0  1  TemPhD_cluster_42390_7   
+   1.3e-253  851.9   0.2   1.5e-253  851.8   0.2    1.0  1  TemPhD_cluster_35613_23  
+   4.8e-250  840.1   0.0   5.3e-250  840.0   0.0    1.0  1  TemPhD_cluster_22668_30  
+   1.1e-249  838.9   0.0   1.3e-249  838.7   0.0    1.0  1  TemPhD_cluster_12421_18  
+   9.8e-240  806.0   0.0   1.1e-239  805.8   0.0    1.0  1  TemPhD_cluster_35762_27  
+   9.8e-240  806.0   0.0   1.1e-239  805.8   0.0    1.0  1  TemPhD_cluster_35763_8   
+   9.8e-240  806.0   0.0   1.1e-239  805.8   0.0    1.0  1  TemPhD_cluster_35764_43  
+   3.7e-234  787.5   0.0   4.6e-234  787.2   0.0    1.0  1  TemPhD_cluster_14305_53  
+   7.3e-234  786.6   0.0   8.6e-234  786.3   0.0    1.0  1  TemPhD_cluster_25523_18  
+   7.3e-234  786.6   0.0   8.6e-234  786.3   0.0    1.0  1  TemPhD_cluster_41473_18  
+   7.3e-234  786.6   0.0   8.6e-234  786.3   0.0    1.0  1  TemPhD_cluster_48787_43  
+   7.3e-234  786.6   0.0   8.6e-234  786.3   0.0    1.0  1  TemPhD_cluster_48823_33  
+   7.3e-234  786.6   0.0   8.6e-234  786.3   0.0    1.0  1  TemPhD_cluster_60088_3   
+   7.8e-234  786.4   0.0   9.5e-234  786.2   0.0    1.0  1  TemPhD_cluster_18417_46  
+   7.8e-234  786.4   0.0   9.5e-234  786.2   0.0    1.0  1  TemPhD_cluster_25564_6   
+   7.8e-234  786.4   0.0   9.5e-234  786.2   0.0    1.0  1  TemPhD_cluster_35805_31  
+   7.8e-234  786.4   0.0   9.5e-234  786.2   0.0    1.0  1  TemPhD_cluster_41132_9   
+   7.8e-234  786.4   0.0   9.5e-234  786.2   0.0    1.0  1  TemPhD_cluster_41141_45  
+   7.8e-234  786.4   0.0   9.5e-234  786.2   0.0    1.0  1  TemPhD_cluster_41362_30  
+   7.8e-234  786.4   0.0   9.5e-234  786.2   0.0    1.0  1  TemPhD_cluster_48944_19  
+   7.8e-234  786.4   0.0   9.5e-234  786.2   0.0    1.0  1  TemPhD_cluster_49733_2   
+   8.2e-234  786.4   0.0     1e-233  786.1   0.0    1.0  1  TemPhD_cluster_48763_32  
+   8.2e-234  786.4   0.0     1e-233  786.1   0.0    1.0  1  TemPhD_cluster_48939_32  
+   8.2e-234  786.4   0.0     1e-233  786.1   0.0    1.0  1  TemPhD_cluster_48950_43  
+   8.2e-234  786.4   0.0     1e-233  786.1   0.0    1.0  1  TemPhD_cluster_60506_32  
+   8.2e-234  786.4   0.0     1e-233  786.1   0.0    1.0  1  TemPhD_cluster_60523_18  
+   4.1e-226  760.9   0.0     5e-226  760.6   0.0    1.0  1  TemPhD_cluster_29396_58  
+   9.2e-226  759.7   0.0   1.1e-225  759.5   0.0    1.0  1  TemPhD_cluster_42263_45  
+   2.5e-225  758.3   0.0   2.8e-225  758.1   0.0    1.0  1  TemPhD_cluster_31944_1   
+   2.5e-225  758.3   0.0   2.8e-225  758.1   0.0    1.0  1  TemPhD_cluster_31945_1   
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_25531_1   
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_27175_1   
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_27176_1   
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_31942_63  
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_41007_1   
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_48638_63  
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_48639_63  
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_57604_32  
+   3.8e-225  757.7   0.0   4.2e-225  757.5   0.0    1.0  1  TemPhD_cluster_57604_40  
+   9.5e-225  756.4   0.0   1.1e-224  756.2   0.0    1.0  1  TemPhD_cluster_35651_61  
+   4.9e-223  750.7   0.0   5.5e-223  750.5   0.0    1.0  1  TemPhD_cluster_40605_48  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19278_23  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19279_48  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19280_53  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19281_5   
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19282_30  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19283_47  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19284_29  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19285_52  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19286_43  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19287_12  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19288_14  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19289_29  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19290_11  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19291_30  
+   2.1e-222  748.6   0.7   2.3e-222  748.5   0.7    1.0  1  TemPhD_cluster_19292_29  
+   1.2e-217  732.9   0.0   1.4e-217  732.7   0.0    1.0  1  TemPhD_cluster_32065_1   
+   8.1e-216  726.8   0.0   9.9e-216  726.5   0.0    1.0  1  TemPhD_cluster_60642_5   
+   1.2e-214  723.0   0.0   1.3e-214  722.8   0.0    1.0  1  TemPhD_cluster_48621_4   
+   2.5e-211  712.0   0.0     3e-211  711.7   0.0    1.0  1  TemPhD_cluster_60343_58  
+   4.2e-202  681.4   0.0   4.9e-202  681.2   0.0    1.0  1  TemPhD_cluster_41337_1   
+   3.7e-197  665.0   0.0   4.1e-197  664.9   0.0    1.0  1  TemPhD_cluster_41241_1   
+   5.5e-192  647.9   0.2   6.7e-192  647.6   0.2    1.0  1  TemPhD_cluster_48476_45  
+   8.2e-185  624.2   0.3   9.1e-185  624.0   0.3    1.0  1  TemPhD_cluster_36630_45  
+   8.2e-185  624.2   0.3   9.1e-185  624.0   0.3    1.0  1  TemPhD_cluster_36632_4   
+   8.2e-185  624.2   0.3   9.1e-185  624.0   0.3    1.0  1  TemPhD_cluster_36633_6   
+   8.2e-185  624.2   0.3   9.1e-185  624.0   0.3    1.0  1  TemPhD_cluster_36647_34  
+   1.2e-181  613.7   0.0   1.5e-181  613.4   0.0    1.1  1  TemPhD_cluster_14377_1   
+     6e-177  598.2   1.0   2.1e-176  596.3   1.0    1.7  1  TemPhD_cluster_29289_1   
+     6e-177  598.2   1.0   2.1e-176  596.3   1.0    1.7  1  TemPhD_cluster_32021_1   
+     6e-177  598.2   1.0   2.1e-176  596.3   1.0    1.7  1  TemPhD_cluster_35848_1   
+   9.7e-174  587.5   0.9   3.5e-173  585.7   0.9    1.7  1  TemPhD_cluster_29301_48  
+   9.7e-174  587.5   0.9   3.5e-173  585.7   0.9    1.7  1  TemPhD_cluster_35922_46  
+   9.7e-174  587.5   0.9   3.5e-173  585.7   0.9    1.7  1  TemPhD_cluster_40763_51  
+   2.7e-173  586.0   0.0   3.4e-173  585.7   0.0    1.0  1  TemPhD_cluster_41050_53  
+   2.5e-169  572.9   1.7   3.1e-169  572.6   1.7    1.0  1  TemPhD_cluster_33188_20  
+   2.5e-169  572.9   1.7   3.1e-169  572.6   1.7    1.0  1  TemPhD_cluster_37053_9   
+   2.5e-169  572.9   1.7   3.1e-169  572.6   1.7    1.0  1  TemPhD_cluster_42826_31  
+   2.5e-169  572.9   1.7   3.1e-169  572.6   1.7    1.0  1  TemPhD_cluster_42842_20  
+   2.5e-169  572.9   1.7   3.1e-169  572.6   1.7    1.0  1  TemPhD_cluster_61462_22  
+   2.1e-164  556.6   0.0   2.5e-164  556.3   0.0    1.0  1  TemPhD_cluster_48112_2   
+   9.6e-159  537.9   4.6   1.1e-158  537.7   4.6    1.0  1  TemPhD_cluster_60955_5   
+     4e-157  532.5   0.0   4.7e-157  532.3   0.0    1.0  1  TemPhD_cluster_59403_24  
+     5e-152  515.6   0.0     6e-152  515.4   0.0    1.0  1  TemPhD_cluster_47695_5   
+     5e-151  512.3   0.0   5.7e-151  512.2   0.0    1.0  1  TemPhD_cluster_48727_51  
+   2.5e-150  510.0   0.0   2.8e-150  509.9   0.0    1.0  1  TemPhD_cluster_14304_1   
+   2.2e-142  483.7   0.0   2.5e-142  483.6   0.0    1.0  1  TemPhD_cluster_35913_52  
+   1.7e-124  424.5   0.0   5.9e-124  422.7   0.0    1.8  2  TemPhD_cluster_31798_55  
+   1.9e-124  424.3   0.0   4.4e-124  423.2   0.0    1.5  1  TemPhD_cluster_48053_7   
+   2.3e-121  414.2   0.0   4.6e-121  413.2   0.0    1.4  1  TemPhD_cluster_35198_62  
+   2.6e-118  404.0   0.0   5.8e-118  402.9   0.0    1.5  1  TemPhD_cluster_40486_60  
+   4.8e-118  403.2   0.0     1e-117  402.0   0.0    1.5  1  TemPhD_cluster_48088_7   
+   2.4e-105  361.1   0.0     3e-105  360.8   0.0    1.0  1  TemPhD_cluster_49747_44  
+   2.4e-105  361.1   0.0     3e-105  360.8   0.0    1.0  1  TemPhD_cluster_49748_14  
+    1.5e-74  259.2   0.2    1.8e-74  258.9   0.2    1.0  1  TemPhD_cluster_14304_54  
+    1.4e-60  213.0   0.0    3.5e-60  211.6   0.0    1.5  1  TemPhD_cluster_22272_1   
+    1.8e-60  212.5   0.0    4.8e-60  211.2   0.0    1.5  1  TemPhD_cluster_26831_28  
+    1.8e-60  212.5   0.0    4.8e-60  211.2   0.0    1.5  1  TemPhD_cluster_34641_54  
+    1.8e-60  212.5   0.0    4.8e-60  211.2   0.0    1.5  1  TemPhD_cluster_46488_34  
+    1.8e-60  212.5   0.0    4.8e-60  211.2   0.0    1.5  1  TemPhD_cluster_57851_49  
+    2.2e-59  209.0   0.0      3e-59  208.5   0.0    1.2  1  TemPhD_cluster_57948_16  
+    2.2e-59  209.0   0.0      3e-59  208.5   0.0    1.2  1  TemPhD_cluster_57958_13  
+    1.5e-47  169.8   0.0    1.7e-47  169.7   0.0    1.0  1  TemPhD_cluster_49747_46  
+    1.5e-47  169.8   0.0    1.7e-47  169.7   0.0    1.0  1  TemPhD_cluster_49748_12  
+    4.5e-46  164.9   3.2    7.7e-36  131.0   0.5    3.0  2  TemPhD_cluster_56158_41  
+    4.2e-45  161.7   3.9    5.2e-35  128.3   0.8    3.0  2  TemPhD_cluster_56191_39  
+    5.6e-45  161.3   3.6      8e-35  127.7   0.7    3.0  2  TemPhD_cluster_56163_37  
+    5.6e-45  161.3   3.6      8e-35  127.7   0.7    3.0  2  TemPhD_cluster_56282_36  
+    1.3e-44  160.1   4.1    9.9e-35  127.4   0.4    3.0  2  TemPhD_cluster_56154_27  
+    1.4e-44  160.0   3.3    2.3e-34  126.2   0.6    3.0  2  TemPhD_cluster_39157_39  
+    1.4e-44  160.0   3.3    2.3e-34  126.2   0.6    3.0  2  TemPhD_cluster_39159_39  
+    1.4e-44  160.0   3.3    2.3e-34  126.2   0.6    3.0  2  TemPhD_cluster_39174_37  
+    1.4e-44  160.0   3.3    2.3e-34  126.2   0.6    3.0  2  TemPhD_cluster_56197_32  
+    1.4e-44  160.0   3.3    2.3e-34  126.2   0.6    3.0  2  TemPhD_cluster_56236_34  
+    1.5e-44  159.9   3.6    2.1e-34  126.3   0.7    3.0  2  TemPhD_cluster_56190_37  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_15059_39  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_26732_39  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_34449_29  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_34450_29  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_39180_29  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_39181_29  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_45957_38  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_56328_39  
+    1.6e-44  159.8   3.3    2.5e-34  126.0   0.6    3.0  2  TemPhD_cluster_56335_39  
+    1.8e-44  159.6   3.5    2.3e-34  126.2   0.6    3.0  2  TemPhD_cluster_56086_41  
+    1.8e-44  159.6   3.5    2.3e-34  126.2   0.6    3.0  2  TemPhD_cluster_56094_41  
+    4.1e-44  158.4   4.2    7.9e-35  127.7   0.7    3.0  2  TemPhD_cluster_26912_34  
+    4.1e-44  158.4   4.2    7.9e-35  127.7   0.7    3.0  2  TemPhD_cluster_56238_38  
+    4.1e-44  158.4   4.2    7.9e-35  127.7   0.7    3.0  2  TemPhD_cluster_56242_33  
+    4.1e-44  158.4   4.2    7.9e-35  127.7   0.7    3.0  2  TemPhD_cluster_56264_32  
+    4.1e-44  158.4   4.2    7.9e-35  127.7   0.7    3.0  2  TemPhD_cluster_59039_11  
+    9.7e-44  157.2   3.6    1.3e-33  123.7   0.6    3.0  2  TemPhD_cluster_56241_42  
+    7.5e-43  154.2   4.3    1.4e-33  123.6   0.7    3.0  2  TemPhD_cluster_45883_38  
+    7.5e-43  154.2   4.3    1.4e-33  123.6   0.7    3.0  2  TemPhD_cluster_45884_35  
+    4.3e-39  141.8   2.5    7.7e-25   94.6   0.1    3.0  3  TemPhD_cluster_56270_42  
+    4.3e-39  141.8   2.5    7.7e-25   94.6   0.1    3.0  3  TemPhD_cluster_56287_24  
+    4.9e-39  141.6   1.7    2.9e-25   96.0   0.1    3.0  3  TemPhD_cluster_56010_45  
+    5.5e-39  141.5   6.1    5.4e-25   95.1   0.1    3.0  3  TemPhD_cluster_56172_29  
+    4.6e-37  135.1   4.1    9.9e-34  124.1   4.1    3.0  1  TemPhD_cluster_56336_54  
+    5.3e-33  121.7   6.4      2e-26   99.9   0.5    3.0  2  TemPhD_cluster_55990_53  
+    5.5e-33  121.6   6.5      4e-26   98.9   0.6    3.0  2  TemPhD_cluster_55954_18  
+    1.8e-32  119.9   0.0    9.3e-23   87.7   0.0    3.0  3  TemPhD_cluster_55859_78  
+    2.1e-32  119.7   4.9    1.3e-26  100.5   0.7    3.0  2  TemPhD_cluster_55918_42  
+    1.2e-31  117.1   5.2    9.1e-26   97.7   0.6    3.0  2  TemPhD_cluster_55930_40  
+    4.2e-29  108.7   1.3    2.3e-23   89.7   0.0    3.1  3  TemPhD_cluster_55401_54  
+    3.6e-25   95.7   0.2    1.3e-18   74.0   0.0    3.1  3  TemPhD_cluster_55486_9   
+    5.1e-21   82.0   3.5    5.4e-19   75.3   0.1    3.3  2  TemPhD_cluster_28864_73  
+    3.2e-15   62.8   2.9    4.6e-15   62.3   2.9    1.2  1  TemPhD_cluster_55486_7   
+      2e-12   53.5   3.1    2.6e-12   53.2   3.1    1.2  1  TemPhD_cluster_55401_52  
+    1.2e-11   51.0   0.5    3.6e-11   49.4   0.5    1.7  1  TemPhD_cluster_55859_86  
+    1.3e-11   50.9   4.6    8.4e-11   48.2   4.6    1.9  1  TemPhD_cluster_56191_48  
+    1.3e-11   50.9   4.6    8.4e-11   48.2   4.6    1.9  1  TemPhD_cluster_56238_47  
+    1.3e-11   50.9   4.6    8.4e-11   48.2   4.6    1.9  1  TemPhD_cluster_56242_24  
+    2.2e-11   50.1   4.6    1.5e-10   47.4   4.6    1.9  1  TemPhD_cluster_56163_46  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_15059_46  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_26732_46  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_34449_22  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_34450_22  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_39180_22  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_39181_22  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_45957_45  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_56328_46  
+    2.6e-11   49.9   4.2      2e-10   46.9   4.2    1.9  1  TemPhD_cluster_56335_46  
+    2.7e-11   49.8   4.6    1.8e-10   47.1   4.6    1.9  1  TemPhD_cluster_45883_47  
+    2.7e-11   49.8   4.6    1.8e-10   47.1   4.6    1.9  1  TemPhD_cluster_45884_26  
+    2.7e-11   49.8   4.6    1.8e-10   47.1   4.6    1.9  1  TemPhD_cluster_56264_25  
+      3e-11   49.7   4.4      2e-10   46.9   4.4    1.9  1  TemPhD_cluster_56282_41  
+      3e-11   49.7   0.0    3.5e-11   49.4   0.0    1.0  1  TemPhD_cluster_47695_1   
+    3.1e-11   49.6   4.9      2e-10   46.9   4.9    1.9  1  TemPhD_cluster_39174_46  
+    3.1e-11   49.6   4.9      2e-10   46.9   4.9    1.9  1  TemPhD_cluster_56236_25  
+    3.1e-11   49.6   4.9      2e-10   46.9   4.9    1.9  1  TemPhD_cluster_59039_20  
+    3.3e-11   49.5   3.7    6.6e-10   45.2   3.7    2.2  1  TemPhD_cluster_56158_49  
+    3.5e-11   49.4   4.9    2.3e-10   46.7   4.9    1.9  1  TemPhD_cluster_39157_46  
+    3.5e-11   49.4   4.9    2.3e-10   46.7   4.9    1.9  1  TemPhD_cluster_39159_46  
+    3.5e-11   49.4   4.9    2.3e-10   46.7   4.9    1.9  1  TemPhD_cluster_56190_46  
+    3.5e-11   49.4   4.9    2.3e-10   46.7   4.9    1.9  1  TemPhD_cluster_56197_25  
+    3.6e-11   49.4   3.3    6.6e-10   45.2   3.3    2.2  1  TemPhD_cluster_56241_48  
+    4.9e-11   48.9   3.1    3.9e-10   45.9   3.1    2.0  1  TemPhD_cluster_56154_20  
+    5.8e-11   48.7   4.3    3.9e-10   45.9   4.3    1.9  1  TemPhD_cluster_26912_25  
+    7.7e-11   48.3   3.2    1.1e-09   44.5   3.2    2.1  1  TemPhD_cluster_56086_48  
+    7.7e-11   48.3   3.2    1.1e-09   44.5   3.2    2.1  1  TemPhD_cluster_56094_48  
+    8.8e-11   48.1   2.9    1.8e-08   40.4   2.9    2.9  1  TemPhD_cluster_22272_36  
+    8.8e-11   48.1   2.9    1.8e-08   40.4   2.9    2.9  1  TemPhD_cluster_26831_65  
+    8.8e-11   48.1   2.9    1.8e-08   40.4   2.9    2.9  1  TemPhD_cluster_34641_17  
+    8.8e-11   48.1   2.9    1.8e-08   40.4   2.9    2.9  1  TemPhD_cluster_46488_71  
+    8.8e-11   48.1   2.9    1.8e-08   40.4   2.9    2.9  1  TemPhD_cluster_54103_9   
+    8.8e-11   48.1   2.9    1.8e-08   40.4   2.9    2.9  1  TemPhD_cluster_57851_14  
+    1.7e-10   47.2   0.4    0.00014   27.5   0.2    2.4  2  TemPhD_cluster_57948_57  
+    1.7e-10   47.2   0.4    0.00014   27.5   0.2    2.4  2  TemPhD_cluster_57958_45  
+    1.4e-09   44.1   1.4    3.1e-09   43.0   0.9    1.7  1  TemPhD_cluster_56336_51  
+    1.8e-09   43.8   0.0    2.3e-09   43.4   0.0    1.0  1  TemPhD_cluster_48112_1   
+    1.6e-07   37.3   1.2    9.7e-07   34.7   1.2    1.9  1  TemPhD_cluster_55918_46  
+    1.6e-07   37.3   1.2    9.7e-07   34.7   1.2    1.9  1  TemPhD_cluster_55990_49  
+    1.6e-07   37.3   1.2    9.9e-07   34.7   1.3    1.9  1  TemPhD_cluster_55930_35  
+    1.8e-07   37.2   1.0    1.9e-06   33.8   1.1    2.0  1  TemPhD_cluster_55954_23  
+      4e-06   32.7   0.3      4e-06   32.7   0.3    1.6  2  TemPhD_cluster_56010_51  
+    5.7e-06   32.2   0.2    7.9e-06   31.7   0.2    1.3  1  TemPhD_cluster_56172_20  
+    0.00077   25.1   0.9      0.001   24.7   0.1    1.6  2  TemPhD_cluster_56270_47  
+    0.00077   25.1   0.9      0.001   24.7   0.1    1.6  2  TemPhD_cluster_56287_19  
+
+
+Domain annotation for each sequence:
+>> TemPhD_cluster_61510_16  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ! 1019.8   0.0         0         0     151     996 ..       8     883 ..       1     884 [] 0.97
+
+>> TemPhD_cluster_60546_40  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  860.5   0.3  1.9e-260  3.3e-256     174     996 ..       1     873 [.       1     874 [] 0.95
+
+>> TemPhD_cluster_50246_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  855.3   0.0  7.1e-259  1.2e-254     165     996 ..      20     892 ..       5     893 .] 0.93
+
+>> TemPhD_cluster_41173_34  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  854.1   0.2  1.7e-258  2.9e-254     174     996 ..       1     873 [.       1     874 [] 0.95
+
+>> TemPhD_cluster_42970_10  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  853.0   0.0  3.5e-258  5.9e-254     153     996 ..      24     907 ..       2     908 .] 0.92
+
+>> TemPhD_cluster_42390_7  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  852.6   0.0  4.7e-258  7.9e-254     165     996 ..      20     892 ..       5     893 .] 0.93
+
+>> TemPhD_cluster_35613_23  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  851.8   0.2  8.5e-258  1.5e-253     174     996 ..       1     873 [.       1     874 [] 0.95
+
+>> TemPhD_cluster_22668_30  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  840.0   0.0  3.1e-254  5.3e-250     150     996 ..      10     896 ..       1     897 [] 0.95
+
+>> TemPhD_cluster_12421_18  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  838.7   0.0  7.7e-254  1.3e-249     163     996 ..      14     885 ..       2     886 .] 0.95
+
+>> TemPhD_cluster_35762_27  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  805.8   0.0  6.5e-244  1.1e-239     176     996 ..       2     815 ..       1     816 [] 0.95
+
+>> TemPhD_cluster_35763_8  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  805.8   0.0  6.5e-244  1.1e-239     176     996 ..       2     815 ..       1     816 [] 0.95
+
+>> TemPhD_cluster_35764_43  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  805.8   0.0  6.5e-244  1.1e-239     176     996 ..       2     815 ..       1     816 [] 0.95
+
+>> TemPhD_cluster_14305_53  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  787.2   0.0  2.7e-238  4.6e-234     168     997 .]      19     878 .]       3     878 .] 0.92
+
+>> TemPhD_cluster_25523_18  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.3   0.0  5.1e-238  8.6e-234     166     997 .]      16     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_41473_18  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.3   0.0  5.1e-238  8.6e-234     166     997 .]      16     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_48787_43  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.3   0.0  5.1e-238  8.6e-234     166     997 .]      16     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_48823_33  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.3   0.0  5.1e-238  8.6e-234     166     997 .]      16     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_60088_3  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.3   0.0  5.1e-238  8.6e-234     166     997 .]      16     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_18417_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.2   0.0  5.6e-238  9.5e-234     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_25564_6  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.2   0.0  5.6e-238  9.5e-234     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_35805_31  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.2   0.0  5.6e-238  9.5e-234     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_41132_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.2   0.0  5.6e-238  9.5e-234     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_41141_45  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.2   0.0  5.6e-238  9.5e-234     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_41362_30  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.2   0.0  5.6e-238  9.5e-234     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_48944_19  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.2   0.0  5.6e-238  9.5e-234     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_49733_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.2   0.0  5.6e-238  9.5e-234     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_48763_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.1   0.0  5.9e-238    1e-233     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_48939_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.1   0.0  5.9e-238    1e-233     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_48950_43  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.1   0.0  5.9e-238    1e-233     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_60506_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.1   0.0  5.9e-238    1e-233     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_60523_18  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  786.1   0.0  5.9e-238    1e-233     168     997 .]      18     878 .]       2     878 .] 0.92
+
+>> TemPhD_cluster_29396_58  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  760.6   0.0  2.9e-230    5e-226     172     996 ..       6     806 ..       2     807 .] 0.92
+
+>> TemPhD_cluster_42263_45  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  759.5   0.0  6.5e-230  1.1e-225     169     996 ..       9     851 ..       2     852 .] 0.93
+
+>> TemPhD_cluster_31944_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  758.1   0.0  1.6e-229  2.8e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_31945_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  758.1   0.0  1.6e-229  2.8e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_25531_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_27175_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_27176_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_31942_63  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_41007_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_48638_63  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_48639_63  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_57604_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_57604_40  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  757.5   0.0  2.5e-229  4.2e-225     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_35651_61  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  756.2   0.0  6.3e-229  1.1e-224     172     996 ..       4     810 ..       1     811 [] 0.91
+
+>> TemPhD_cluster_40605_48  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  750.5   0.0  3.3e-227  5.5e-223     176     996 ..       2     876 ..       1     877 [] 0.93
+
+>> TemPhD_cluster_19278_23  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19279_48  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19280_53  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19281_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19282_30  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19283_47  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19284_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19285_52  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19286_43  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19287_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19288_14  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19289_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19290_11  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19291_30  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_19292_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  748.5   0.7  1.4e-226  2.3e-222     163     996 ..       7     874 ..       1     875 [] 0.93
+
+>> TemPhD_cluster_32065_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  732.7   0.0  8.2e-222  1.4e-217     175     996 ..       6     805 ..       2     806 .] 0.93
+
+>> TemPhD_cluster_60642_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  726.5   0.0  5.8e-220  9.9e-216     179     996 ..       9     842 ..       4     843 .] 0.93
+
+>> TemPhD_cluster_48621_4  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  722.8   0.0  7.8e-219  1.3e-214     174     996 ..       4     831 ..       1     832 [] 0.91
+
+>> TemPhD_cluster_60343_58  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  711.7   0.0  1.8e-215    3e-211     177     996 ..       7     829 ..       2     830 .] 0.92
+
+>> TemPhD_cluster_41337_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  681.2   0.0  2.9e-206  4.9e-202     178     996 ..       9     807 ..       2     808 .] 0.91
+
+>> TemPhD_cluster_41241_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  664.9   0.0  2.4e-201  4.1e-197     176     997 .]       2     826 .]       1     826 [] 0.88
+
+>> TemPhD_cluster_48476_45  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  647.6   0.2  3.9e-196  6.7e-192     173     997 .]      17     841 .]       6     841 .] 0.91
+
+>> TemPhD_cluster_36630_45  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  624.0   0.3  5.4e-189  9.1e-185     175     996 ..       2     813 ..       1     814 [] 0.93
+
+>> TemPhD_cluster_36632_4  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  624.0   0.3  5.4e-189  9.1e-185     175     996 ..       2     813 ..       1     814 [] 0.93
+
+>> TemPhD_cluster_36633_6  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  624.0   0.3  5.4e-189  9.1e-185     175     996 ..       2     813 ..       1     814 [] 0.93
+
+>> TemPhD_cluster_36647_34  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  624.0   0.3  5.4e-189  9.1e-185     175     996 ..       2     813 ..       1     814 [] 0.93
+
+>> TemPhD_cluster_14377_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  613.4   0.0  8.9e-186  1.5e-181     176     996 ..       9     864 ..       3     865 .] 0.89
+
+>> TemPhD_cluster_29289_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  596.3   1.0  1.2e-180  2.1e-176     204     996 ..       2     882 ..       1     883 [] 0.86
+
+>> TemPhD_cluster_32021_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  596.3   1.0  1.2e-180  2.1e-176     204     996 ..       2     882 ..       1     883 [] 0.86
+
+>> TemPhD_cluster_35848_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  596.3   1.0  1.2e-180  2.1e-176     204     996 ..       2     882 ..       1     883 [] 0.86
+
+>> TemPhD_cluster_29301_48  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  585.7   0.9    2e-177  3.5e-173     223     996 ..       2     863 ..       1     864 [] 0.86
+
+>> TemPhD_cluster_35922_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  585.7   0.9    2e-177  3.5e-173     223     996 ..       2     863 ..       1     864 [] 0.86
+
+>> TemPhD_cluster_40763_51  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  585.7   0.9    2e-177  3.5e-173     223     996 ..       2     863 ..       1     864 [] 0.86
+
+>> TemPhD_cluster_41050_53  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  585.7   0.0    2e-177  3.4e-173     180     997 .]       4     832 .]       2     832 .] 0.89
+
+>> TemPhD_cluster_33188_20  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  572.6   1.7  1.8e-173  3.1e-169     181     997 .]       8     827 .]       4     827 .] 0.87
+
+>> TemPhD_cluster_37053_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  572.6   1.7  1.8e-173  3.1e-169     181     997 .]       8     827 .]       4     827 .] 0.87
+
+>> TemPhD_cluster_42826_31  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  572.6   1.7  1.8e-173  3.1e-169     181     997 .]       8     827 .]       4     827 .] 0.87
+
+>> TemPhD_cluster_42842_20  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  572.6   1.7  1.8e-173  3.1e-169     181     997 .]       8     827 .]       4     827 .] 0.87
+
+>> TemPhD_cluster_61462_22  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  572.6   1.7  1.8e-173  3.1e-169     181     997 .]       8     827 .]       4     827 .] 0.87
+
+>> TemPhD_cluster_48112_2  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  556.3   0.0  1.5e-168  2.5e-164     423     996 ..      28     582 ..      10     583 .] 0.94
+
+>> TemPhD_cluster_60955_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  537.7   4.6  6.3e-163  1.1e-158     179     997 .]       2     813 .]       1     813 [] 0.87
+
+>> TemPhD_cluster_59403_24  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  532.3   0.0  2.8e-161  4.7e-157     177     996 ..       6     777 ..       2     778 .] 0.91
+
+>> TemPhD_cluster_47695_5  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  515.4   0.0  3.6e-156    6e-152     425     997 .]       4     590 .]       2     590 .] 0.92
+
+>> TemPhD_cluster_48727_51  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  512.2   0.0  3.3e-155  5.7e-151     175     996 ..       2     809 ..       1     810 [] 0.89
+
+>> TemPhD_cluster_14304_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  509.9   0.0  1.6e-154  2.8e-150     574     997 .]       1     454 []       1     454 [] 0.94
+
+>> TemPhD_cluster_35913_52  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  483.6   0.0  1.5e-146  2.5e-142     176     996 ..       2     809 ..       1     810 [] 0.87
+
+>> TemPhD_cluster_31798_55  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -2.0   0.0       7.3   1.2e+05     210     290 ..      66     147 ..      37     151 .. 0.65
+   2 !  422.7   0.0  3.5e-128  5.9e-124     375     994 ..     189     766 ..     168     768 .. 0.88
+
+>> TemPhD_cluster_48053_7  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  423.2   0.0  2.6e-128  4.4e-124     381     994 ..     195     766 ..     169     768 .. 0.88
+
+>> TemPhD_cluster_35198_62  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  413.2   0.0  2.7e-125  4.6e-121     378     994 ..     191     766 ..     168     768 .. 0.86
+
+>> TemPhD_cluster_40486_60  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  402.9   0.0  3.4e-122  5.8e-118     367     994 ..     178     766 ..     168     768 .. 0.86
+
+>> TemPhD_cluster_48088_7  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  402.0   0.0  6.2e-122    1e-117     381     994 ..     192     766 ..     168     768 .. 0.86
+
+>> TemPhD_cluster_49747_44  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  360.8   0.0  1.8e-109    3e-105     178     760 ..       5     591 ..       1     591 [. 0.90
+
+>> TemPhD_cluster_49748_14  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  360.8   0.0  1.8e-109    3e-105     178     760 ..       5     591 ..       1     591 [. 0.90
+
+>> TemPhD_cluster_14304_54  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  258.9   0.2   1.1e-78   1.8e-74     168     570 ..      19     422 ..       3     423 .] 0.89
+
+>> TemPhD_cluster_22272_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  211.6   0.0   2.1e-64   3.5e-60     539     996 ..     123     544 ..     117     545 .] 0.85
+
+>> TemPhD_cluster_26831_28  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  211.2   0.0   2.8e-64   4.8e-60     539     996 ..     173     594 ..     168     595 .] 0.85
+
+>> TemPhD_cluster_34641_54  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  211.2   0.0   2.8e-64   4.8e-60     539     996 ..     173     594 ..     168     595 .] 0.85
+
+>> TemPhD_cluster_46488_34  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  211.2   0.0   2.8e-64   4.8e-60     539     996 ..     173     594 ..     168     595 .] 0.85
+
+>> TemPhD_cluster_57851_49  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  211.2   0.0   2.8e-64   4.8e-60     539     996 ..     173     594 ..     168     595 .] 0.85
+
+>> TemPhD_cluster_57948_16  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  208.5   0.0   1.8e-63     3e-59     539     996 ..     171     592 ..     146     593 .] 0.89
+
+>> TemPhD_cluster_57958_13  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  208.5   0.0   1.8e-63     3e-59     539     996 ..     171     592 ..     146     593 .] 0.89
+
+>> TemPhD_cluster_49747_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  169.7   0.0   9.8e-52   1.7e-47     761     995 ..       1     217 [.       1     219 [] 0.92
+
+>> TemPhD_cluster_49748_12  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  169.7   0.0   9.8e-52   1.7e-47     761     995 ..       1     217 [.       1     219 [] 0.92
+
+>> TemPhD_cluster_56158_41  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  131.0   0.5   4.5e-40   7.7e-36     600     922 ..       8     271 ..       5     275 .. 0.88
+   2 !   30.1   0.1   1.4e-09   2.4e-05     915     964 ..     332     380 ..     318     401 .. 0.77
+
+>> TemPhD_cluster_56191_39  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  128.3   0.8     3e-39   5.2e-35     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56163_37  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.7   0.7   4.7e-39     8e-35     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56282_36  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.7   0.7   4.7e-39     8e-35     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56154_27  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.4   0.4   5.8e-39   9.9e-35     600     922 ..       8     271 ..       4     274 .. 0.88
+   2 !   30.1   0.3   1.4e-09   2.4e-05     909     963 ..     326     379 ..     264     399 .. 0.78
+
+>> TemPhD_cluster_39157_39  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.2   0.6   1.3e-38   2.3e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_39159_39  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.2   0.6   1.3e-38   2.3e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_39174_37  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.2   0.6   1.3e-38   2.3e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56197_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.2   0.6   1.3e-38   2.3e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56236_34  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.2   0.6   1.3e-38   2.3e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56190_37  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.3   0.7   1.2e-38   2.1e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_15059_39  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_26732_39  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_34449_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_34450_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_39180_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_39181_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_45957_38  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56328_39  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56335_39  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.0   0.6   1.5e-38   2.5e-34     600     922 ..       8     271 ..       5     274 .. 0.88
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56086_41  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.2   0.6   1.4e-38   2.3e-34     600     918 ..       8     266 ..       5     273 .. 0.89
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     401 .. 0.77
+
+>> TemPhD_cluster_56094_41  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  126.2   0.6   1.4e-38   2.3e-34     600     918 ..       8     266 ..       5     273 .. 0.89
+   2 !   30.0   0.1   1.5e-09   2.5e-05     915     964 ..     332     380 ..     319     401 .. 0.77
+
+>> TemPhD_cluster_26912_34  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.7   0.7   4.6e-39   7.9e-35     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   27.8   0.2     7e-09   0.00012     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56238_38  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.7   0.7   4.6e-39   7.9e-35     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   27.8   0.2     7e-09   0.00012     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56242_33  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.7   0.7   4.6e-39   7.9e-35     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   27.8   0.2     7e-09   0.00012     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56264_32  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.7   0.7   4.6e-39   7.9e-35     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   27.8   0.2     7e-09   0.00012     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_59039_11  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.7   0.7   4.6e-39   7.9e-35     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   27.8   0.2     7e-09   0.00012     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56241_42  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  123.7   0.6   7.4e-38   1.3e-33     600     922 ..       8     271 ..       5     277 .. 0.88
+   2 !   30.2   0.1   1.4e-09   2.3e-05     915     964 ..     332     380 ..     318     401 .. 0.77
+
+>> TemPhD_cluster_45883_38  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  123.6   0.7   8.1e-38   1.4e-33     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   27.8   0.2     7e-09   0.00012     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_45884_35  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  123.6   0.7   8.1e-38   1.4e-33     600     922 ..       8     271 ..       5     274 .. 0.89
+   2 !   27.8   0.2     7e-09   0.00012     915     964 ..     332     380 ..     319     400 .. 0.78
+
+>> TemPhD_cluster_56270_42  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   94.6   0.1   4.5e-29   7.7e-25     600     767 ..       8     145 ..       5     149 .. 0.93
+   2 !   17.6   0.0   8.3e-06      0.14     819     914 ..     172     264 ..     161     270 .. 0.82
+   3 !   28.1   0.3   5.9e-09    0.0001     903     964 ..     317     377 ..     309     399 .. 0.81
+
+>> TemPhD_cluster_56287_24  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   94.6   0.1   4.5e-29   7.7e-25     600     767 ..       8     145 ..       5     149 .. 0.93
+   2 !   17.6   0.0   8.3e-06      0.14     819     914 ..     172     264 ..     161     270 .. 0.82
+   3 !   28.1   0.3   5.9e-09    0.0001     903     964 ..     317     377 ..     309     399 .. 0.81
+
+>> TemPhD_cluster_56010_45  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   96.0   0.1   1.7e-29   2.9e-25     600     767 ..       8     145 ..       4     149 .. 0.94
+   2 !   14.1   0.0   9.6e-05       1.6     809     914 ..     165     264 ..     158     270 .. 0.78
+   3 !   29.4   0.1   2.4e-09     4e-05     903     964 ..     317     377 ..     309     399 .. 0.84
+
+>> TemPhD_cluster_56172_29  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   95.1   0.1   3.2e-29   5.4e-25     600     768 ..       8     146 ..       4     150 .. 0.93
+   2 !   18.1   0.1   5.9e-06       0.1     818     914 ..     171     264 ..     160     270 .. 0.82
+   3 !   30.0   0.6   1.6e-09   2.7e-05     903     964 ..     317     377 ..     307     397 .. 0.85
+
+>> TemPhD_cluster_56336_54  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  124.1   4.1   5.8e-38   9.9e-34     600     965 ..       8     385 ..       3     408 .] 0.88
+
+>> TemPhD_cluster_55990_53  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   99.9   0.5   1.2e-30     2e-26     597     901 ..       5     248 ..       2     265 .. 0.81
+   2 !   18.3   0.8   5.4e-06     0.091     904     995 ..     328     407 ..     325     409 .] 0.71
+
+>> TemPhD_cluster_55954_18  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   98.9   0.6   2.4e-30     4e-26     597     901 ..       5     248 ..       2     265 .. 0.81
+   2 !   19.2   0.8   2.8e-06     0.047     906     995 ..     330     407 ..     325     409 .] 0.70
+
+>> TemPhD_cluster_55859_78  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   87.7   0.0   5.5e-27   9.3e-23     600     760 ..       8     149 ..       4     163 .. 0.83
+   2 !    8.7   0.0    0.0043        72     837     912 ..     202     269 ..     175     277 .. 0.77
+   3 !   20.0   0.0   1.5e-06     0.026     914     960 ..     345     390 ..     296     410 .. 0.91
+
+>> TemPhD_cluster_55918_42  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  100.5   0.7   7.9e-31   1.3e-26     597     901 ..       5     248 ..       2     263 .. 0.81
+   2 !   14.5   0.2   7.2e-05       1.2     906     959 ..     330     382 ..     325     409 .] 0.70
+
+>> TemPhD_cluster_55930_40  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   97.7   0.6   5.4e-30   9.1e-26     597     900 ..       5     247 ..       2     260 .. 0.76
+   2 !   15.3   0.4   4.3e-05      0.73     906     960 ..     330     383 ..     325     409 .] 0.70
+
+>> TemPhD_cluster_55401_54  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   89.7   0.0   1.4e-27   2.3e-23     597     771 ..       5     157 ..       2     164 .. 0.90
+   2 ?    5.3   0.0     0.044   7.5e+02     838     900 ..     199     253 ..     163     273 .. 0.77
+   3 !   11.1   0.3   0.00076        13     914     965 ..     348     398 ..     337     416 .. 0.84
+
+>> TemPhD_cluster_55486_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   74.0   0.0   7.7e-23   1.3e-18     597     767 ..       5     153 ..       3     161 .. 0.88
+   2 !    7.6   0.0     0.009   1.5e+02     838     910 ..     199     263 ..     170     273 .. 0.80
+   3 !   10.8   0.1   0.00099        17     914     961 ..     348     394 ..     337     421 .. 0.79
+
+>> TemPhD_cluster_28864_73  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?    4.1   1.1       0.1   1.7e+03      37     194 ..      32     234 ..      12     259 .. 0.48
+   2 !   75.3   0.1   3.2e-23   5.4e-19     546     960 ..     260     678 ..     252     695 .. 0.80
+
+>> TemPhD_cluster_55486_7  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   62.3   2.9   2.7e-19   4.6e-15     301     596 ..      21     314 ..       4     318 .. 0.67
+
+>> TemPhD_cluster_55401_52  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   53.2   3.1   1.5e-16   2.6e-12     335     594 ..      59     314 ..       5     321 .. 0.72
+
+>> TemPhD_cluster_55859_86  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   49.4   0.5   2.1e-15   3.6e-11     410     596 ..     165     312 ..     153     313 .] 0.80
+
+>> TemPhD_cluster_56191_48  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   48.2   4.6   4.9e-15   8.4e-11     289     593 ..      29     300 ..       5     304 .. 0.71
+
+>> TemPhD_cluster_56238_47  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   48.2   4.6   4.9e-15   8.4e-11     289     593 ..      29     300 ..       5     304 .. 0.71
+
+>> TemPhD_cluster_56242_24  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   48.2   4.6   4.9e-15   8.4e-11     289     593 ..      29     300 ..       5     304 .. 0.71
+
+>> TemPhD_cluster_56163_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   47.4   4.6   8.6e-15   1.5e-10     289     593 ..      29     300 ..       8     304 .. 0.71
+
+>> TemPhD_cluster_15059_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_26732_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_34449_22  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_34450_22  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_39180_22  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_39181_22  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_45957_45  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_56328_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_56335_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.2   1.2e-14     2e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_45883_47  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   47.1   4.6   1.1e-14   1.8e-10     289     593 ..      29     300 ..       7     304 .. 0.71
+
+>> TemPhD_cluster_45884_26  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   47.1   4.6   1.1e-14   1.8e-10     289     593 ..      29     300 ..       7     304 .. 0.71
+
+>> TemPhD_cluster_56264_25  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   47.1   4.6   1.1e-14   1.8e-10     289     593 ..      29     300 ..       7     304 .. 0.71
+
+>> TemPhD_cluster_56282_41  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.4   1.2e-14     2e-10     287     593 ..      31     300 ..      10     304 .. 0.72
+
+>> TemPhD_cluster_47695_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   49.4   0.0   2.1e-15   3.5e-11     176     420 ..      27     287 ..       7     291 .. 0.73
+
+>> TemPhD_cluster_39174_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.9   1.2e-14     2e-10     289     593 ..      29     300 ..       5     304 .. 0.71
+
+>> TemPhD_cluster_56236_25  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.9   1.2e-14     2e-10     289     593 ..      29     300 ..       5     304 .. 0.71
+
+>> TemPhD_cluster_59039_20  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.9   4.9   1.2e-14     2e-10     289     593 ..      29     300 ..       5     304 .. 0.71
+
+>> TemPhD_cluster_56158_49  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   45.2   3.7   3.9e-14   6.6e-10     289     592 ..      29     299 ..       8     304 .. 0.71
+
+>> TemPhD_cluster_39157_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.7   4.9   1.3e-14   2.3e-10     289     593 ..      29     300 ..       6     304 .. 0.71
+
+>> TemPhD_cluster_39159_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.7   4.9   1.3e-14   2.3e-10     289     593 ..      29     300 ..       6     304 .. 0.71
+
+>> TemPhD_cluster_56190_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.7   4.9   1.3e-14   2.3e-10     289     593 ..      29     300 ..       6     304 .. 0.71
+
+>> TemPhD_cluster_56197_25  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   46.7   4.9   1.3e-14   2.3e-10     289     593 ..      29     300 ..       6     304 .. 0.71
+
+>> TemPhD_cluster_56241_48  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   45.2   3.3   3.9e-14   6.6e-10     289     592 ..      29     299 ..       9     304 .. 0.71
+
+>> TemPhD_cluster_56154_20  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   45.9   3.1   2.3e-14   3.9e-10     289     592 ..      29     299 ..       8     304 .. 0.72
+
+>> TemPhD_cluster_26912_25  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   45.9   4.3   2.3e-14   3.9e-10     289     593 ..      29     300 ..       8     304 .. 0.70
+
+>> TemPhD_cluster_56086_48  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   44.5   3.2   6.4e-14   1.1e-09     290     593 ..      30     300 ..      14     304 .. 0.69
+
+>> TemPhD_cluster_56094_48  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   44.5   3.2   6.4e-14   1.1e-09     290     593 ..      30     300 ..      14     304 .. 0.69
+
+>> TemPhD_cluster_22272_36  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.4   2.9   1.1e-12   1.8e-08     560     964 ..     232     608 ..     221     626 .. 0.74
+
+>> TemPhD_cluster_26831_65  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.4   2.9   1.1e-12   1.8e-08     560     964 ..     232     608 ..     221     626 .. 0.74
+
+>> TemPhD_cluster_34641_17  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.4   2.9   1.1e-12   1.8e-08     560     964 ..     232     608 ..     221     626 .. 0.74
+
+>> TemPhD_cluster_46488_71  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.4   2.9   1.1e-12   1.8e-08     560     964 ..     232     608 ..     221     626 .. 0.74
+
+>> TemPhD_cluster_54103_9  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.4   2.9   1.1e-12   1.8e-08     560     964 ..     232     608 ..     221     626 .. 0.74
+
+>> TemPhD_cluster_57851_14  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   40.4   2.9   1.1e-12   1.8e-08     560     964 ..     232     608 ..     221     626 .. 0.74
+
+>> TemPhD_cluster_57948_57  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   17.2   0.0   1.2e-05       0.2     560     700 ..     230     364 ..     219     375 .. 0.78
+   2 !   27.5   0.2   8.4e-09   0.00014     745     960 ..     385     604 ..     377     624 .. 0.71
+
+>> TemPhD_cluster_57958_45  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   17.2   0.0   1.2e-05       0.2     560     700 ..     230     364 ..     219     375 .. 0.78
+   2 !   27.5   0.2   8.4e-09   0.00014     745     960 ..     385     604 ..     377     624 .. 0.71
+
+>> TemPhD_cluster_56336_51  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   43.0   0.9   1.8e-13   3.1e-09     362     592 ..     115     301 ..      97     306 .. 0.74
+
+>> TemPhD_cluster_48112_1  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   43.4   0.0   1.3e-13   2.3e-09     178     420 ..      13     249 ..       4     251 .. 0.77
+
+>> TemPhD_cluster_55918_46  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   1.2   5.7e-11   9.7e-07     410     592 ..     157     300 ..     129     305 .. 0.78
+
+>> TemPhD_cluster_55990_49  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   1.2   5.7e-11   9.7e-07     410     592 ..     157     300 ..     129     305 .. 0.78
+
+>> TemPhD_cluster_55930_35  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   34.7   1.3   5.8e-11   9.9e-07     410     592 ..     157     300 ..     129     305 .. 0.78
+
+>> TemPhD_cluster_55954_23  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   33.8   1.1   1.1e-10   1.9e-06     410     592 ..     157     300 ..     137     305 .. 0.76
+
+>> TemPhD_cluster_56010_51  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -1.9   0.1       6.5   1.1e+05     950     965 ..      14      29 ..       5      85 .. 0.53
+   2 !   32.7   0.3   2.4e-10     4e-06     530     592 ..     218     280 ..     172     285 .. 0.69
+
+>> TemPhD_cluster_56172_20  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   31.7   0.2   4.7e-10   7.9e-06     525     592 ..     217     280 ..     145     285 .. 0.74
+
+>> TemPhD_cluster_56270_47  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -1.9   0.1       6.5   1.1e+05     950     965 ..      14      29 ..       5      85 .. 0.53
+   2 !   24.7   0.1   6.2e-08     0.001     532     593 ..     220     281 ..     172     285 .. 0.70
+
+>> TemPhD_cluster_56287_19  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 ?   -1.9   0.1       6.5   1.1e+05     950     965 ..      14      29 ..       5      85 .. 0.53
+   2 !   24.7   0.1   6.2e-08     0.001     532     593 ..     220     281 ..     172     285 .. 0.70
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (997 nodes)
+Target sequences:                    3465586  (774748217 residues searched)
+Passed MSV filter:                    178979  (0.0516447); expected 69311.7 (0.02)
+Passed bias filter:                    65002  (0.0187564); expected 69311.7 (0.02)
+Passed Vit filter:                      5141  (0.00148344); expected 3465.6 (0.001)
+Passed Fwd filter:                       266  (7.67547e-05); expected 34.7 (1e-05)
+Initial search space (Z):            3465586  [actual number of targets]
+Domain search space  (domZ):             204  [number of targets reported over threshold]
+# CPU time: 91.67u 7.14s 00:01:38.81 Elapsed: 00:00:08.63
+# Mc/sec: 89439.49
+//
+[ok]

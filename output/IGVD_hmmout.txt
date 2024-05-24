@@ -1,0 +1,42 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.3.2 (Nov 2020); http://hmmer.org/
+# Copyright (C) 2020 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  hmm/phage-family-interpro-v4.hmm
+# target sequence database:        phagescope/IGVD.fasta
+# output directed to file:         output/IGVD_hmmout.txt
+# per-seq hits tabular output:     output/IGVD_hmmout.tbl.txt
+# show alignments in output:       no
+# sequence reporting threshold:    E-value <= 0.001
+# number of worker threads:        50
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       phage-family-interpro-v4  [M=997]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence    Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------    -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence:
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (997 nodes)
+Target sequences:                     339921  (76547196 residues searched)
+Passed MSV filter:                     23217  (0.0683012); expected 6798.4 (0.02)
+Passed bias filter:                     7088  (0.0208519); expected 6798.4 (0.02)
+Passed Vit filter:                       564  (0.00165921); expected 339.9 (0.001)
+Passed Fwd filter:                        48  (0.000141209); expected 3.4 (1e-05)
+Initial search space (Z):             339921  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 8.66u 0.65s 00:00:09.31 Elapsed: 00:00:00.82
+# Mc/sec: 92369.95
+//
+[ok]
