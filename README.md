@@ -1,1 +1,1 @@
-# ssrnap-bioinformatics-ml
+# rnap-bioinformatics
